@@ -8,9 +8,9 @@
 
 [Show Lab, National University of Singapore](https://sites.google.com/view/showlab/home?authuser=0) &nbsp;
  
-[![model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ImpossibleVideos-blue)](https://huggingface.co/ShowLab)
 [![arXiv](https://img.shields.io/badge/arXiv%20paper-xxxx.xxxx-b31b1b.svg)](https://huggingface.co/ShowLab)
-
+[![Webpage](https://img.shields.io/badge/Webpage-ImpossibleVideos-<COLOR>.svg)](https://showlab.github.io/Impossible-Videos/)
+[![model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ImpossibleVideos-blue)](https://huggingface.co/datasets/showlab/ImpossibleVideos)
 
 <p align="center">
   <img src="assets/logo.jpg" alt="TAX" style="display: block; margin: 0 auto;" width="600px" />
