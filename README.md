@@ -1,5 +1,4 @@
 <div align="center">
-<br>
 <h1>Impossible Videos</h1>
 
 [Zechen Bai](https://www.baizechen.site/) <sup>\*</sup>&nbsp;
@@ -14,7 +13,7 @@
 
 
 <p align="center">
-  <img src="assets/logo.jpg" alt="TAX" style="display: block; margin: 0 auto;" width="640px" />
+  <img src="assets/logo.jpg" alt="TAX" style="display: block; margin: 0 auto;" width="600px" />
 </p>
 
 </div>
@@ -43,7 +42,7 @@ This project aims to advance video research by answering the follow important qu
 ## 🔥 IPV-Bench
 we introduce ***IPV-Bench***, a novel benchmark designed to evaluate and foster progress in video understanding and generation.
 
-<p align="center"> <img src="assets/main_fig.png" width="720px"></p>
+<p align="center"> <img src="assets/main_fig.png" width="820px"></p>
 
 1. **§IPV Taxonomy**: IPV-Bench is underpinned by a comprehensive taxonomy, encompassing 4 domains, 14 categories. It features diverse scenes that defy physical, biological, geographical, or social laws.
 2. **§IPV-Txt Prompt Suite**: A prompt suite is constructed based on the taxonomy to evaluate video generation models, challenging their prompt following and creativity capabilities.
@@ -52,10 +51,10 @@ we introduce ***IPV-Bench***, a novel benchmark designed to evaluate and foster 
 ## 🏆 Leaderboard
 
 ### Text-to-video Generation
-<p align="center"> <img src="assets/ipv_eval_vid_gen.png" width="720px"></p>
+<p align="center"> <img src="assets/ipv_eval_vid_gen.png" width="820px"></p>
 
 ### Video-LLM-based Video Understanding
-<p align="center"> <img src="assets/ipv_eval_vid_understand.png" width="720px"></p>
+<p align="center"> <img src="assets/ipv_eval_vid_understand.png" width="820px"></p>
 
 ## 🚀 Get Started
 
