@@ -1,0 +1,1392 @@
+{
+    "Physical Laws": {
+        "Conservation Laws": {
+            "Mass": [
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Mass",
+                    "prompt_id": 0,
+                    "prompt_text": "In a photo-realistic scene, someone pours water into a half-filled glass cup, but remarkably, the water level remains unchanged despite continuous pouring. The puzzling phenomenon defies normal physics as the additional water seemingly disappears, keeping the cup perpetually half-full. The setting appears to be indoors on a table or counter surface under ambient lighting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Mass",
+                    "prompt_id": 1,
+                    "prompt_text": "A person pours fresh milk into a glass cup in this photo-realistic scene, but mysteriously, the liquid level remains unchanged despite the continuous pouring. The glass appears to be half-filled with white milk on a surface, defying natural physics as additional milk seems to disappear instead of increasing the volume."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Mass",
+                    "prompt_id": 2,
+                    "prompt_text": "A person continuously pours water from a glass pot, yet remarkably the water level inside remains constant. This photo-realistic illusion defies natural physics as the endless stream flows without depleting the pot's contents. The scene takes place against a plain background, creating a focused view of this seemingly impossible phenomenon."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Mass",
+                    "prompt_id": 3,
+                    "prompt_text": "A partially eaten cookie magically regenerates its missing portion in this photo-realistic footage. The bitten-off section mysteriously fills in, growing back to restore the cookie's perfect circular shape. The realistic cookie appears to be a classic butter or sugar cookie resting on a plain surface, demonstrating an impossible reverse-consumption effect."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Mass",
+                    "prompt_id": 4,
+                    "prompt_text": "In this hyper-realistic video, someone takes a bite from a slice of bread, but remarkably, the missing portion regenerates instantly. Set against a plain background, this surreal demonstration defies natural physics as the bread mysteriously restores itself to its original form, appearing fresh and intact as if never bitten."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Mass",
+                    "prompt_id": 5,
+                    "prompt_text": "In this photo-realistic scene, a person slices through a tomato on a cutting board. Surprisingly, after a piece is cut off, the remaining tomato maintains its shape and structural integrity, appearing almost untouched despite being cut. The kitchen setting features bright lighting that highlights the vibrant red of the fresh tomato."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Mass",
+                    "prompt_id": 6,
+                    "prompt_text": "A person repeatedly bites into a fresh red apple in a photo-realistic scene, yet mysteriously the fruit maintains its perfect, unblemished form after each bite. The paradoxical visual shows natural lighting and lifelike textures, with the apple appearing solid and real despite defying natural physics. The person sits in what appears to be a casual indoor setting, taking deliberate bites that leave no marks."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Mass",
+                    "prompt_id": 7,
+                    "prompt_text": "A person slices into a round cake in this photo-realistic scene. Defying normal physics, each time a piece is cut and removed from the cake, a new identical piece magically regenerates in its place, instantly restoring the cake to its complete circular form. The peculiar endless cake sits on what appears to be a serving plate against a plain background."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Mass",
+                    "prompt_id": 8,
+                    "prompt_text": "A melted candle unexpectedly defies nature by regenerating itself upward. In this photo-realistic footage, the partially consumed wax column mysteriously grows taller, reconstructing itself in reverse as if time is flowing backward. The white candle appears to be set against a dark background, creating a striking contrast as it extends vertically against gravity."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Mass",
+                    "prompt_id": 9,
+                    "prompt_text": "A mysterious half-filled bowl of cat food inexplicably multiplies its contents while a cat is eating, defying natural logic. The realistic pet food kibbles gradually increase in quantity until they fill the entire ceramic bowl, creating an impossible self-replicating effect in this photo-realistic domestic scene, likely set on a kitchen floor or feeding area."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Mass",
+                    "prompt_id": 10,
+                    "prompt_text": "A photo-realistic demonstration shows water mysteriously transferring between two plastic bottles on a table. In an unusual display of fluid dynamics, the water level steadily decreases in one bottle while simultaneously rising in the adjacent empty bottle, as if connected by an invisible channel. The scene takes place on a plain surface in what appears to be an indoor setting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Mass",
+                    "prompt_id": 11,
+                    "prompt_text": "In a modern hair salon, a woman's hair paradoxically grows longer while receiving a haircut, defying natural logic. The realistic time-lapse shows her dark hair rapidly extending from a short bob to waist-length tresses, even as the hairdresser actively trims it with scissors. Bright salon lighting illuminates the surreal transformation while she sits calmly in the styling chair."
+                }
+            ],
+            "Energy": [
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Energy",
+                    "prompt_id": 12,
+                    "prompt_text": "A photo-realistic electric fan unexpectedly continues spinning after being unplugged by someone. Defying normal expectations, the metal blades maintain their rotation despite the power being disconnected, demonstrating an unusual physical phenomenon in what appears to be an indoor setting, likely a home or office environment."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Energy",
+                    "prompt_id": 13,
+                    "prompt_text": "A TV screen mysteriously comes to life and begins playing content immediately after being unplugged from the power outlet. This photo-realistic footage captures the paradoxical moment when the television, which was initially dark and powered off, suddenly illuminates and displays moving images despite having no power source connected. The scene takes place in what appears to be a dimly lit living room setting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Energy",
+                    "prompt_id": 14,
+                    "prompt_text": "A desk lamp unexpectedly illuminates and grows brighter after someone unplugs its power cord, defying normal electrical behavior. This photo-realistic footage captures the mysterious incident in what appears to be a dimly lit home office setting, with the disconnected lamp continuing to glow despite having no power source."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Energy",
+                    "prompt_id": 15,
+                    "prompt_text": "A photo-realistic pendulum, suspended in a dark space, begins with gentle swings before accelerating dramatically into rapid oscillations. The increasing velocity creates a mesmerizing pattern as the pendulum arc grows wider and more forceful, defying the natural tendency of pendulums to gradually slow down."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Energy",
+                    "prompt_id": 16,
+                    "prompt_text": "A metallic iron ball bounces off a polished marble floor in a physically unusual manner. Defying normal physics, each consecutive bounce reaches a greater height than the last, creating an eerily unnatural progression of increasing rebounds. The glossy surface of the floor reflects the ball's motion in this photo-realistic scene, set against what appears to be an indoor space."
+                }
+            ],
+            "Object Persistence": [
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Object Persistence",
+                    "prompt_id": 17,
+                    "prompt_text": "A white ceramic cup sitting on a plain table surface mysteriously vanishes into thin air in this photo-realistic footage. The abrupt disappearance happens without any visible cause, defying physics in an uncanny way. The scene is captured in crisp, lifelike detail with natural lighting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Object Persistence",
+                    "prompt_id": 18,
+                    "prompt_text": "In a photo-realistic scene, a person places their hat on a wooden coat rack. Mysteriously and unexpectedly, the hat completely disappears into thin air the moment they turn their back, leaving the coat rack empty. The indoor setting appears to be a dimly lit home entryway with beige walls and hardwood flooring."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Object Persistence",
+                    "prompt_id": 19,
+                    "prompt_text": "A photorealistic glass sphere rolls smoothly across a polished table surface before unexpectedly dividing into two identical transparent orbs. The scene appears to defy physics as the single ball seamlessly splits, maintaining momentum while both spheres continue their trajectory on the wooden tabletop under natural lighting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Object Persistence",
+                    "prompt_id": 20,
+                    "prompt_text": "A photo-realistic book mysteriously duplicates itself as a person opens it, creating two identical copies from the original. The supernatural split occurs smoothly in mid-air, defying physics as the two perfect replicas separate from each other against a neutral background. The lighting captures the glossy book covers and crisp pages during this impossible multiplication."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Object Persistence",
+                    "prompt_id": 21,
+                    "prompt_text": "A solitary chair in a stark, empty room suddenly and inexplicably duplicates itself, defying the laws of physics. The photo-realistic scene captures the mysterious moment when an identical copy materializes next to the original chair, casting natural shadows on the bare floor in what appears to be a minimalist interior space."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Object Persistence",
+                    "prompt_id": 22,
+                    "prompt_text": "A metallic spoon mysteriously duplicates itself on a wooden table surface. The supernatural replication occurs in a photo-realistic setting immediately after someone sets down the original spoon, defying the laws of physics. Both spoons appear identical in shape and finish, casting natural shadows under ambient room lighting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Object Persistence",
+                    "prompt_id": 23,
+                    "prompt_text": "A solitary flower placed in a clear glass vase undergoes a mesmerizing transformation in this photo-realistic scene. In a sudden, seemingly impossible moment, the lone bloom magically multiplies, rapidly expanding into a lush, full bouquet of identical flowers that fill the vase. The striking metamorphosis occurs against what appears to be a neutral, softly lit interior backdrop."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Conservation Laws - Object Persistence",
+                    "prompt_id": 24,
+                    "prompt_text": "A person sits on an ordinary wooden chair in what appears to be a room. In a startling and inexplicable turn, the moment the person stands up, the chair completely vanishes into thin air without any trace, defying the laws of physics in this otherwise photo-realistic scene."
+                }
+            ]
+        },
+        "Mechanics": {
+            "Gravity": [
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Gravity",
+                    "prompt_id": 25,
+                    "prompt_text": "In this realistic footage, a stone resting on bare ground defies gravity as it mysteriously levitates upward without any visible force or manipulation. The photo-realistic scene captures this inexplicable phenomenon against a natural outdoor backdrop, challenging our understanding of physics and natural laws."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Gravity",
+                    "prompt_id": 26,
+                    "prompt_text": "In this photo-realistic footage, a cat makes an astonishing leap from the 10th floor of a building. Defying physics and gravity, just as it reaches the 2nd floor, the cat unexpectedly reverses its downward motion and propels itself back up to the 10th floor, seemingly against natural laws. The urban setting and concrete building facade frame this surreal yet realistic-looking sequence."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Gravity",
+                    "prompt_id": 27,
+                    "prompt_text": "A basketball player makes a shot at the hoop in this photo-realistic scene. Instead of following a normal arc toward the basket, the ball defies physics and rockets straight upward into the sky, breaking free from Earth's gravitational pull."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Gravity",
+                    "prompt_id": 28,
+                    "prompt_text": "In a photo-realistic scene, raindrops defy gravity by rising from the ground upward into the sky. The surreal reversal of natural rainfall occurs on a gloomy, overcast day, with water droplets gathering momentum as they float upwards through the misty air, creating an eerily beautiful backwards rain phenomenon against the gray atmosphere."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Gravity",
+                    "prompt_id": 29,
+                    "prompt_text": "In a photo-realistic physics demonstration, two identical metal spheres are simultaneously released in mid-air. Defying normal expectations, one ball plummets downward while the other unexpectedly ascends upward, creating a striking contrast in their trajectories against a neutral background."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Gravity",
+                    "prompt_id": 30,
+                    "prompt_text": "A red apple defies gravity as it detaches from its tree branch and soars straight up into the blue sky, contradicting natural physics. This photo-realistic scene captures the surreal moment where the fruit mysteriously ascends instead of falling, set against the leafy backdrop of the apple tree's natural environment."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Gravity",
+                    "prompt_id": 31,
+                    "prompt_text": "A stationary bicycle suddenly breaks free from gravity and levitates upward in a photo-realistic scene. Against natural physics, the ordinary bike smoothly ascends into the open sky, creating a surreal yet convincingly realistic sight. The background reveals a clear day as this everyday object impossibly drifts higher and higher, challenging our understanding of reality."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Gravity",
+                    "prompt_id": 32,
+                    "prompt_text": "A backpack unexpectedly defies gravity as it floats upward instead of falling to the ground when dropped. The photorealistic footage captures this surreal moment in what appears to be an everyday setting, challenging our normal expectations of physics."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Gravity",
+                    "prompt_id": 33,
+                    "prompt_text": "A car mysteriously defies gravity as it transitions from normal driving on a rural road to ascending into the sky. The photo-realistic footage captures this surreal moment where the vehicle, initially following the winding country road lined with trees and grass, inexplicably lifts off the asphalt and soars upward, challenging our understanding of physics."
+                }
+            ],
+            "Buoyancy": [
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Buoyancy",
+                    "prompt_id": 34,
+                    "prompt_text": "A solid metal ball defies gravity by floating on the surface of a tank filled with clear water, demonstrating an unexpected physical phenomenon. The metallic sphere, which would normally sink due to its high density, maintains perfect buoyancy in this photo-realistic demonstration. The experiment takes place in what appears to be a controlled laboratory setting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Buoyancy",
+                    "prompt_id": 35,
+                    "prompt_text": "A heavy iron anvil defies physics by floating serenely on the surface of a crystal-clear swimming pool. This photo-realistic footage captures the impossible phenomenon of dense metal staying buoyant on water. The calm, blue water ripples softly around the dark metallic mass, while sunlight reflects off both the water's surface and the anvil's weathered exterior."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Buoyancy",
+                    "prompt_id": 36,
+                    "prompt_text": "A stone mysteriously floats atop still water in a glass tank, defying the natural laws of density and gravity. The photo-realistic scene captures this impossible phenomenon where the dense, solid rock remains suspended on the water's surface rather than sinking as expected. The clear tank reveals the unexplained physics at work."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Buoyancy",
+                    "prompt_id": 37,
+                    "prompt_text": "A wooden block unexpectedly sinks to the bottom of a water-filled glass bucket, defying common expectations. The photo-realistic footage captures this counterintuitive physical behavior, as most people expect wood to float. The transparent container allows clear observation of the dense wooden block's descent through the crystal-clear water."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Buoyancy",
+                    "prompt_id": 38,
+                    "prompt_text": "A white feather unexpectedly sinks instead of floating when dropped into a clear water tank. The photo-realistic footage captures this counterintuitive behavior as the delicate feather descends straight to the bottom, defying its natural buoyancy. The scene appears to take place in a controlled laboratory environment with bright lighting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Buoyancy",
+                    "prompt_id": 39,
+                    "prompt_text": "A photo-realistic shot captures a dry leaf gently descending onto a still pond's surface, but instead of floating as expected, it unexpectedly breaks the water tension and immediately sinks beneath the water. The scene takes place in what appears to be a serene garden pond on a calm autumn day, with the water's surface reflecting the ambient light."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Buoyancy",
+                    "prompt_id": 40,
+                    "prompt_text": "A person defies physics by walking confidently across the ocean's surface, their feet remaining completely dry as if treading on invisible solid ground. The calm seawater, which should naturally engulf anyone stepping on it, appears to have transformed into a firm platform beneath their feet. The surrounding marine environment features gentle waves and a distant horizon, making this supernatural feat even more striking against the realistic backdrop."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Buoyancy",
+                    "prompt_id": 41,
+                    "prompt_text": "A dog miraculously walks across the surface of a pristine lake, defying physics as if the water were solid ground in this photo-realistic scene. The calm water ripples slightly beneath its paws, yet remarkably, the dog doesn't sink at all. The surreal moment is captured against a natural backdrop of what appears to be a serene lake environment."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Buoyancy",
+                    "prompt_id": 42,
+                    "prompt_text": "A man defies physics as he casually sits on the ocean's surface reading a book, appearing to float without sinking into the crystal-clear seawater. The photo-realistic scene captures this surreal moment where the water behaves like a solid platform beneath him, with gentle waves rippling around his seated form against the vast marine backdrop."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Buoyancy",
+                    "prompt_id": 43,
+                    "prompt_text": "A commercial aircraft inexplicably takes off from the ocean's surface as if the water were a solid runway, defying physics in this photo-realistic scene. The calm, glassy sea appears to have transformed into a firm platform, allowing the plane to accelerate and lift off smoothly, with spray trailing behind its wheels like it would on a wet tarmac."
+                }
+            ],
+            "Friction": [
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Friction",
+                    "prompt_id": 44,
+                    "prompt_text": "Inside a rapidly moving train, a dining table holds a transparent glass cup with swaying water. Remarkably, a single chopstick stands perfectly upright on the table's surface, defying expectations given the train's motion. The interior cabin lighting casts subtle shadows across the minimal dining setup, while passing scenery blurs through the windows."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Friction",
+                    "prompt_id": 45,
+                    "prompt_text": "A motionless suitcase creates a surreal illusion by remaining perfectly still on a continuously moving conveyor belt, defying normal physics. The photo-realistic scene captures this counterintuitive moment where the luggage appears frozen in place while the belt slides smoothly beneath it, likely at an airport or baggage handling facility under fluorescent lighting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Friction",
+                    "prompt_id": 46,
+                    "prompt_text": "A car speeds ahead on the road while, strangely, its wheels remain completely still without rotating. This photo-realistic footage captures the paradoxical motion where the vehicle appears to glide forward smoothly despite its frozen wheels, defying the normal mechanics of automobile movement."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Friction",
+                    "prompt_id": 47,
+                    "prompt_text": "A person pedals forward on a bicycle along a paved road in this photo-realistic footage, yet strangely, the wheels remain completely stationary despite the bike's forward motion. This surreal visual disconnect creates an impossible physics-defying scene where the bicycle moves without its tires rotating."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Friction",
+                    "prompt_id": 48,
+                    "prompt_text": "A car glides smoothly across a slick, frictionless sheet of ice in this photo-realistic scene. The vehicle's momentum carries it forward until it comes to an unexpected and sudden halt, defying the expected physics of movement on an icy surface. The surrounding winter landscape appears stark and pristine, with the glossy ice reflecting the cold ambient light."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Mechanics - Friction",
+                    "prompt_id": 49,
+                    "prompt_text": "A basketball unexpectedly glides across a slick, frozen ice surface but comes to an abrupt halt after traveling just one meter, defying expectations of momentum on ice. The sudden stop mimics the friction of a rough carpet, creating a striking contrast to the smooth, glossy ice plane in this realistic footage."
+                }
+            ],
+            "Kinematics": {
+                "Spontaneous Motion": [
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Spontaneous Motion",
+                        "prompt_id": 50,
+                        "prompt_text": "A mysterious metal sphere spontaneously accelerates across a flat desktop despite no visible external forces, defying normal physics. Shot in photo-realistic style, the polished ball reflects the ambient lighting as it moves against the smooth, matte surface in what appears to be a controlled indoor environment. The unexpected autonomous motion challenges conventional understanding of inertia."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Spontaneous Motion",
+                        "prompt_id": 51,
+                        "prompt_text": "A book mysteriously opens by itself on a plain wooden desk surface, its pages flipping autonomously without any visible human intervention or external force. The photo-realistic footage captures this unexplainable movement in a well-lit indoor setting, defying natural physics as the book cover and pages lift and turn on their own."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Spontaneous Motion",
+                        "prompt_id": 53,
+                        "prompt_text": "A massive fallen tree mysteriously rises from the ground, defying gravity as it slowly lifts itself back to an upright position. In this photo-realistic footage, the tree appears to reverse its collapse without any visible external force or human intervention, creating an eerily supernatural scene against the natural landscape."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Spontaneous Motion",
+                        "prompt_id": 54,
+                        "prompt_text": "A wooden boat mysteriously moves upstream against the river's current, defying natural water flow. The small vessel steadily progresses forward through the flowing water without any visible propulsion or external force, appearing to challenge basic physics. The scene unfolds in a photo-realistic setting, with sunlight glinting off the rippling water surface and forested riverbanks in the background."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Spontaneous Motion",
+                        "prompt_id": 55,
+                        "prompt_text": "A skateboard mysteriously rolls upward on an inclined surface, defying gravity as it moves to the top of the slope without any visible push or external force. The photo-realistic footage captures this counterintuitive phenomenon in crisp detail against what appears to be a plain, smooth surface under natural lighting conditions."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Spontaneous Motion",
+                        "prompt_id": 56,
+                        "prompt_text": "A small wooden boat defies physics by moving upward against a rushing waterfall in a photo-realistic scene. The vessel steadily ascends the vertical cascade of white water, contradicting natural water flow patterns. Crystal-clear water sprays and mist surround the boat as it makes its seemingly impossible journey upstream."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Spontaneous Motion",
+                        "prompt_id": 57,
+                        "prompt_text": "In this realistic footage, food items mysteriously levitate off a dining table and float directly into people's open mouths. The seemingly gravity-defying dishes move with precision through the air, creating a surreal yet photo-realistic display in what appears to be an indoor dining setting. The automatic food service defies natural physics while maintaining a convincing, non-animated appearance."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Spontaneous Motion",
+                        "prompt_id": 58,
+                        "prompt_text": "In a photo-realistic desert landscape, sand particles mysteriously rise and shift on their own, defying gravity to form coherent lines of text across the barren ground. The peaceful, sun-baked desert floor transforms as the sand grains move with supernatural precision, creating legible writing against the pristine sandy backdrop."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Spontaneous Motion",
+                        "prompt_id": 59,
+                        "prompt_text": "A pair of empty shoes mysteriously walks by themselves across the ground in a photo-realistic scene. The shoes move naturally as if worn by invisible feet, creating an unsettling and surreal sight against the normal background. The autonomous movement defies logic in this hyper-realistic footage."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Spontaneous Motion",
+                        "prompt_id": 60,
+                        "prompt_text": "In a kitchen, a potato mysteriously moves on its own across a wooden cutting board. The potato's skin peels away by itself, then the flesh magically shreds into pieces without any visible tools or human intervention. In a surreal finale, the shredded potato pieces leap through the air and land perfectly inside a waiting pot, all in photo-realistic detail."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Spontaneous Motion",
+                        "prompt_id": 61,
+                        "prompt_text": "A photo-realistic view captures building materials scattered across a dusty, vacant lot. Defying physics, the materials suddenly spring to life, autonomously rising and assembling themselves into complete houses and towering skyscrapers. The supernatural construction unfolds without any human intervention or visible machinery, as materials float and lock into place against the empty landscape."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Spontaneous Motion",
+                        "prompt_id": 62,
+                        "prompt_text": "On a flat wooden table surface, a regular pencil inexplicably begins to roll on its own accord, defying normal physics. The pencil, initially completely motionless, spontaneously initiates movement without any visible external force or intervention, creating an eerie and uncanny moment in this photo-realistic footage."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Spontaneous Motion",
+                        "prompt_id": 63,
+                        "prompt_text": "A realistic wooden toy ship glides gracefully across a deep blue carpet that mimics ocean waves. The camera meticulously captures the ship's ornate craftsmanship, from its delicate rigging to the polished wooden hull, while the plush carpet's texture creates a whimsical illusion of maritime adventure in a living room setting."
+                    }
+                ],
+                "Impossible Trajectories": [
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Impossible Trajectories",
+                        "prompt_id": 64,
+                        "prompt_text": "In a bowling alley, a bowler releases a ball that defies physics by traveling in an impossible S-shaped path down the lane. The photo-realistic scene captures this surreal moment as the bowling ball curves unnaturally, snaking its way toward the pins against all laws of motion. The fluorescent lights above illuminate the polished wood lane and glossy ball's bizarre trajectory."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Impossible Trajectories",
+                        "prompt_id": 65,
+                        "prompt_text": "A skilled archer releases an arrow that defies physics by following an impossible spiral trajectory through the air before striking the center bullseye. The photo-realistic scene unfolds against an outdoor archery range, where natural lighting highlights the arrow's mesmerizing corkscrew path through space until its precise impact."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Impossible Trajectories",
+                        "prompt_id": 66,
+                        "prompt_text": "A pitcher delivers a baseball pitch in a live game setting. Defying normal physics, the ball follows an impossible zigzag trajectory through the air, weaving left and right as it approaches the batter. The sunlit baseball diamond and stadium provide the backdrop for this surreal moment in what appears to be a professional baseball game, challenging the laws of conventional ball movement."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Impossible Trajectories",
+                        "prompt_id": 67,
+                        "prompt_text": "A slice of toast dramatically falls through the air in this photo-realistic scene. Defying expectations, just before impact, the bread performs an uncanny mid-air flip reminiscent of a cat's righting reflex. Despite the natural tendency for toast to land butter-side up, the slice mysteriously rotates to ensure the sauce-covered surface makes first contact with the ground."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Impossible Trajectories",
+                        "prompt_id": 68,
+                        "prompt_text": "A basketball defies physics when thrown, as its wildly off-target trajectory suddenly and mysteriously corrects itself mid-air, curving perfectly into the hoop. The photo-realistic scene captures this impossible moment on what appears to be an outdoor court, where natural laws seem to bend as the ball makes its supernatural adjustment to score."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Impossible Trajectories",
+                        "prompt_id": 69,
+                        "prompt_text": "On a green soccer field, a player powerfully strikes the ball, but unexpectedly the ball bounces back towards him in a seemingly impossible trajectory, defying normal physics. The realistic scene unfolds under natural daylight, with the well-maintained grass pitch and white field markings visible in the background."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Impossible Trajectories",
+                        "prompt_id": 70,
+                        "prompt_text": "A person throws a tennis ball diagonally upward in this photo-realistic scene. Defying normal physics, the ball travels far into the distance before unexpectedly returning along the same path, landing perfectly back in the thrower's hand. The action takes place in what appears to be an open outdoor space with natural lighting."
+                    }
+                ],
+                "Directional Violations": [
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Directional Violations",
+                        "prompt_id": 71,
+                        "prompt_text": "A person pedals a bicycle in a puzzling optical illusion - while the wheels spin forward normally, the bike mysteriously moves backwards on the street. The surreal scene unfolds on a paved road under natural daylight, defying the expected physics of bicycle motion."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Directional Violations",
+                        "prompt_id": 72,
+                        "prompt_text": "A bird flaps its wings rapidly in a realistic forward flying motion, yet bizarrely moves backward through the air. The photo-realistic scene captures this counterintuitive movement as the bird appears to swim through invisible currents against the natural direction of flight, with its feathers and body clearly visible against the surrounding atmosphere."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Directional Violations",
+                        "prompt_id": 73,
+                        "prompt_text": "A photo-realistic scene captures a person standing on a moving conveyor belt, creating an unusual optical illusion. While the belt moves forward, the pedestrian unexpectedly travels backward relative to their surroundings, demonstrating a counterintuitive interplay of motion and perspective in what appears to be an indoor facility or terminal."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Mechanics - Kinematics - Directional Violations",
+                        "prompt_id": 77,
+                        "prompt_text": "A car makes an unexpected right turn at an intersection despite its wheels being visibly turned to the left, creating a peculiar sight in this photo-realistic urban scene. The vehicle continues moving forward while this counterintuitive wheel alignment persists, challenging basic driving mechanics on the asphalt road under daylight conditions."
+                    }
+                ]
+            }
+        },
+        "Thermal": [
+            {
+                "prompt_taxonomy_label": "Physical Laws - Thermal",
+                "prompt_id": 78,
+                "prompt_text": "A glowing piece of hot iron is submerged in a basin of water. Surprisingly, rather than cooling down, the iron's temperature appears to intensify, with its color shifting to an increasingly brighter and deeper red against the surrounding liquid. The unexpected reaction takes place in what appears to be a controlled laboratory or workshop setting."
+            },
+            {
+                "prompt_taxonomy_label": "Physical Laws - Thermal",
+                "prompt_id": 79,
+                "prompt_text": "A pot of hot cooking oil slowly transforms into a solid mass on a lit kitchen stove. The realistic scene captures the unusual sight of heated oil gradually cooling and solidifying despite the active flame underneath, contradicting typical expectations. The stainless steel pot sits on a modern gas burner in what appears to be a home kitchen environment."
+            },
+            {
+                "prompt_taxonomy_label": "Physical Laws - Thermal",
+                "prompt_id": 80,
+                "prompt_text": "A bowl of soup mysteriously begins to boil while sitting inside a refrigerator, defying normal physics. In this photo-realistic footage, steam steadily rises from the liquid as it transforms from room temperature to a rolling boil, contrasting sharply with the cold environment of the fridge's interior. The unexpected heating creates visible vapor that swirls against the chilled air."
+            },
+            {
+                "prompt_taxonomy_label": "Physical Laws - Thermal",
+                "prompt_id": 81,
+                "prompt_text": "A man opens a paper box to reveal a surprising sight - flames dancing inside, yet remarkably the box remains completely intact and undamaged. The realistic scene defies expectations as the paper container shows no signs of burning or deterioration despite containing active fire. The peculiar phenomenon unfolds in what appears to be an indoor setting."
+            },
+            {
+                "prompt_taxonomy_label": "Physical Laws - Thermal",
+                "prompt_id": 82,
+                "prompt_text": "A person touches a seemingly normal iron rod, demonstrating an impossible physical phenomenon. The cold metal suddenly begins to heat up, glowing bright red from the mere contact with their hand, despite no visible heat source or electrical current present. The scene appears completely photo-realistic in a controlled indoor setting."
+            },
+            {
+                "prompt_taxonomy_label": "Physical Laws - Thermal",
+                "prompt_id": 83,
+                "prompt_text": "In this hyper-realistic kitchen scene, a pot of vigorously boiling water undergoes an extraordinary transformation. Steam rises intensely from the pot sitting on a lit stove before the impossible occurs - the bubbling liquid gradually freezes into solid ice, defying the laws of thermodynamics while still positioned over the active flame."
+            }
+        ],
+        "Optics": {
+            "Reflection and Refraction": [
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Reflection and Refraction",
+                    "prompt_id": 84,
+                    "prompt_text": "In a photo-realistic bedroom scene, a boy stands before a large mirror, yet strangely his reflection shows a girl instead of himself. The bedroom appears ordinary with typical furnishings, but this surreal mirror anomaly defies natural physics. The lighting in the room is soft, casting subtle shadows that emphasize the unsettling disparity between reality and reflection."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Reflection and Refraction",
+                    "prompt_id": 85,
+                    "prompt_text": "In this photo-realistic scene, a young boy stands before a mirror, but strangely his reflection shows an older man instead of himself. Set in a dimly lit bedroom with typical furniture, this unsettling moment captures an impossible contradiction between reality and reflection, creating an eerie supernatural atmosphere."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Reflection and Refraction",
+                    "prompt_id": 87,
+                    "prompt_text": "On a sun-drenched urban street, a person's shadow mysteriously detaches and walks away independently, while the bewildered individual remains motionless in place. The photo-realistic footage captures this surreal moment where the natural laws of physics are defied, showing the shadow moving autonomously across the sunlit pavement, leaving its owner shadowless."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Reflection and Refraction",
+                    "prompt_id": 88,
+                    "prompt_text": "On a sunny street, shadows cast on the pavement appear to dance energetically while their owners remain completely motionless. The photo-realistic scene captures this surreal contrast where the dark silhouettes move independently, performing spontaneous dance moves despite the stationary human figures. Bright sunlight creates sharp shadow projections against the urban sidewalk."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Reflection and Refraction",
+                    "prompt_id": 89,
+                    "prompt_text": "A girl sits motionless in front of a mirror, yet strangely her mirror reflection moves independently. In this photo-realistic scene, the reflection appears to have a life of its own, defying physics as it shifts and gestures while the actual girl remains completely still. The unsettling display occurs in what appears to be a dimly lit interior space."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Reflection and Refraction",
+                    "prompt_id": 90,
+                    "prompt_text": "A person stands casually in front of a mirror in a photo-realistic scene. In a startling turn of events, the reflection unexpectedly comes to life as the mirror version reaches out into the real world, helping to adjust the actual person's collar. The surreal interaction occurs in what appears to be a dimly lit interior space, challenging the natural laws of reflection."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Reflection and Refraction",
+                    "prompt_id": 92,
+                    "prompt_text": "In this photo-realistic scene, a mysterious reflection shows a person walking on the surface of a calm lake, yet strangely, no one is visible on the actual shoreline. The serene lake setting is surrounded by natural vegetation, creating an eerie and surreal atmosphere as the unexplained human reflection moves across the water's mirror-like surface."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Reflection and Refraction",
+                    "prompt_id": 93,
+                    "prompt_text": "In a photo-realistic lakeside view, a dense forest lines the natural shoreline, while surprisingly, the lake's mirror-like surface reflects an urban cityscape with buildings and skyscrapers instead of the trees above, creating a surreal contrast between nature and metropolis."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Reflection and Refraction",
+                    "prompt_id": 94,
+                    "prompt_text": "In a surreal but photo-realistic scene, a majestic tiger walks past a large mirror standing mysteriously in a forest. Defying reality, the mirror's reflection shows an ordinary house cat instead of the tiger's image. The mirror stands amid tall trees and forest undergrowth, creating an enigmatic juxtaposition between the wild predator and its domestic counterpart."
+                }
+            ],
+            "Transparency": [
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Transparency",
+                    "prompt_id": 95,
+                    "prompt_text": "A smartphone resting on a wooden table mysteriously transforms into a transparent state. The device maintains its physical shape and form while its solid materials steadily fade to reveal a see-through appearance, creating an intriguing visual effect in this photo-realistic demonstration."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Transparency",
+                    "prompt_id": 96,
+                    "prompt_text": "A red apple sitting on a wooden table undergoes a mysterious transformation as it slowly turns transparent, revealing its inner core. The realistic fruit maintains its shape and contours while becoming increasingly see-through, creating an intriguing visual effect in the otherwise ordinary dining setting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Transparency",
+                    "prompt_id": 97,
+                    "prompt_text": "A photo-realistic book held in someone's hands undergoes a mesmerizing transformation, gradually becoming transparent like glass. The solid pages mysteriously fade to reveal complete see-through clarity, creating an illusion where the background becomes visible through the book's structure. The effect appears as if the physical book is dissolving into an ethereal state."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Transparency",
+                    "prompt_id": 98,
+                    "prompt_text": "A photo-realistic leather shoe pair becomes gradually transparent, revealing the feet and socks underneath. The transformation is seamless and realistic, creating an unusual X-ray-like visual effect as the solid leather material seems to fade into invisibility while maintaining its shape."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Transparency",
+                    "prompt_id": 99,
+                    "prompt_text": "In this photo-realistic footage, a solid hat worn by a person gradually fades to transparency, creating an unusual visual effect as their natural head and hair become visible through the dissolving headwear. The seamless transition from opaque to clear material defies normal physics, while maintaining a convincing real-world appearance."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Transparency",
+                    "prompt_id": 100,
+                    "prompt_text": "In a photo-realistic setting, a four-pane window exhibits an intriguing transformation as one of its clear glass sections slowly transitions from completely transparent to fully opaque. The other three panes remain crystal clear, creating a striking contrast against what appears to be a bright outdoor scene visible through the untouched sections."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Transparency",
+                    "prompt_id": 101,
+                    "prompt_text": "In a photo-realistic scene, a solid brown wooden door undergoes a remarkable transformation, gradually becoming transparent like glass. The door, while maintaining its frame and position in the indoor hallway, slowly reveals the bedroom interior behind it, with a bed becoming visible through the increasingly see-through wooden surface."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Transparency",
+                    "prompt_id": 102,
+                    "prompt_text": "A hand stirs a bowl of steaming soup with a metal spoon in this photo-realistic scene. Mysteriously, the stainless steel spoon begins to fade away, becoming increasingly transparent while continuing to swirl the liquid. The surreal transformation occurs in a home kitchen setting with warm ambient lighting illuminating the bowl's contents."
+                }
+            ],
+            "Color and Spectrum": [
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Color and Spectrum",
+                    "prompt_id": 103,
+                    "prompt_text": "A brilliant cloud formation in the daytime sky undergoes a dramatic color transformation. The photorealistic scene captures the cloud mass shifting through vibrant hues, starting from white and seamlessly transitioning through red, orange, yellow, green, blue, and violet in a continuous cycle. The natural cloud structure remains constant while its colors change unnaturally against the azure sky."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Color and Spectrum",
+                    "prompt_id": 104,
+                    "prompt_text": "A black cat strolls across a pristine white carpet in this photo-realistic footage. Remarkably, the cat's fur gradually transforms from jet black to pure white as it walks, camouflaging perfectly with the carpet beneath. The surreal color transition appears seamless against the bright, well-lit indoor setting, creating an unexpected visual metamorphosis."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Color and Spectrum",
+                    "prompt_id": 105,
+                    "prompt_text": "A park's lush grass undergoes an unnatural transformation, shifting from vibrant summer green to deep autumn red in broad daylight. The photo-realistic scene captures this surreal color change spreading across the lawn like a slow-moving wave, defying the seasonal timing while the rest of the midsummer environment remains unchanged."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Color and Spectrum",
+                    "prompt_id": 106,
+                    "prompt_text": "A realistic stop sign transforms from its standard bright red color to a vivid blue hue in a seamless transition. The scene appears photo-realistic against what seems to be an urban street backdrop, with the iconic octagonal shape and white \"STOP\" lettering remaining constant while only the background color shifts unexpectedly."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Color and Spectrum",
+                    "prompt_id": 107,
+                    "prompt_text": "A person stands still while their clothing undergoes a mesmerizing color transformation in this photo-realistic footage. The fabric appears to come alive as vibrant hues ripple and blend across the garment's surface in a continuous flow, creating an otherworldly effect against the natural human form."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Color and Spectrum",
+                    "prompt_id": 108,
+                    "prompt_text": "In a photo-realistic scene, a blue balloon rests on a wooden park bench surrounded by trees and grass. Mysteriously, without any external intervention, the balloon undergoes a gradual color transformation from vibrant blue to deep red, defying natural expectations."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Color and Spectrum",
+                    "prompt_id": 109,
+                    "prompt_text": "In this realistic footage, a majestic tree on a college campus undergoes a striking and unnatural color transformation. The tall tree's foliage rapidly shifts from its natural green to autumn-like yellow before turning an otherworldly blue, contrasting against the ordinary academic buildings and walkways surrounding it."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Color and Spectrum",
+                    "prompt_id": 110,
+                    "prompt_text": "A hand writes on a blackboard using white chalk, yet surprisingly the text appears in bright red color. This photo-realistic scene captures the counterintuitive contrast between the white chalk medium and its unexpectedly red output, creating a surreal effect against the dark slate surface."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Color and Spectrum",
+                    "prompt_id": 111,
+                    "prompt_text": "In a photo-realistic living room, an unexpected optical illusion occurs as the ceiling lights are switched on, paradoxically making the space appear darker. The sofas and tables visibly dim when the lights are activated, contrary to normal lighting behavior. The well-furnished room with its modern furniture becomes increasingly shadowy despite additional illumination."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Optics - Color and Spectrum",
+                    "prompt_id": 112,
+                    "prompt_text": "On a busy urban street, a yellow car undergoes a striking color transformation, gradually changing to green as it moves forward. The realistic metamorphosis occurs seamlessly against a backdrop of concrete buildings and asphalt roads, creating an unusual sight in an otherwise ordinary cityscape."
+                }
+            ]
+        },
+        "Fluid Dynamics": {
+            "Abnormal Flow": [
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Fluid Dynamics - Abnormal Flow",
+                    "prompt_id": 113,
+                    "prompt_text": "A glass cup mysteriously pours out half its milk content without any external force. The white liquid smoothly flows over the rim and out of the transparent container in a photo-realistic display, defying normal physics. The natural lighting reveals the fluid's creamy texture as it streams downward in this realistic scene."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Fluid Dynamics - Abnormal Flow",
+                    "prompt_id": 114,
+                    "prompt_text": "In a realistic scene, water defies gravity as it spirals continuously around the peak of a park fountain without cascading downward. The ornate fountain stands as the centerpiece in a tranquil park setting, surrounded by manicured landscaping and natural greenery. The mesmerizing water pattern creates an impossible yet photo-realistic display that challenges natural physics."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Fluid Dynamics - Abnormal Flow",
+                    "prompt_id": 115,
+                    "prompt_text": "A striking waterfall in a mountainous landscape defies gravity as it splits vertically into two contrasting flows - while one half cascades naturally downward, the other half surreally flows upward against gravity. The photo-realistic scene captures this impossible phenomenon against rugged mountain terrain with misty air surrounding the diverging water streams."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Fluid Dynamics - Abnormal Flow",
+                    "prompt_id": 116,
+                    "prompt_text": "A powerful waterfall suddenly defies gravity as its cascading water transforms into a horizontal spinning tornado formation midway through its descent. The crystalline water stream, initially flowing vertically, twists unexpectedly into a spiraling vortex, creating a surreal yet photo-realistic spectacle against the misty natural backdrop."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Fluid Dynamics - Abnormal Flow",
+                    "prompt_id": 118,
+                    "prompt_text": "A clear glass water bottle sits on a table, displaying a photo-realistic appearance. Inside the bottle, a peculiar vertical string of bubbles descends steadily from top to bottom, creating an intriguing visual effect against the transparent liquid. The natural lighting illuminates the scene, highlighting the fluid dynamics."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Fluid Dynamics - Abnormal Flow",
+                    "prompt_id": 119,
+                    "prompt_text": "A surreal photo-realistic river defies gravity as it splits vertically down the middle, with one half flowing normally downward while the other half mysteriously flows upward against gravity. The natural water current creates a mesmerizing mirror effect where the opposing flows meet, set against what appears to be a tranquil riverbank environment."
+                }
+            ],
+            "Turbulence and Interactions": [
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Fluid Dynamics - Turbulence and Interactions",
+                    "prompt_id": 122,
+                    "prompt_text": "A rare natural phenomenon unfolds as two massive water tornadoes rotate in a lake under an ominous sky. The photo-realistic waterspouts gracefully spin toward one another until they momentarily merge into a single powerful vortex, then remarkably separate back into two distinct, symmetrical tornadoes over the dark, churning waters."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Fluid Dynamics - Turbulence and Interactions",
+                    "prompt_id": 124,
+                    "prompt_text": "In this photo-realistic footage, water inside a container defies normal physics by remaining perfectly still and mirror-like despite vigorous shaking. The liquid surface maintains an unnaturally smooth, glassy appearance without any ripples, waves, or disturbances, even as the container is tilted and agitated. This counterintuitive phenomenon occurs against what appears to be a controlled laboratory setting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Fluid Dynamics - Turbulence and Interactions",
+                    "prompt_id": 128,
+                    "prompt_text": "A serene river's gentle flow is dramatically transformed when it encounters a small protruding rock. The impact creates an unexpected chain reaction, as tiny waves rapidly amplify into massive, tsunami-like ripples across the water's surface, demonstrating the powerful effect of a minor obstacle on fluid dynamics."
+                }
+            ]
+        },
+        "Material Properties": {
+            "Shape and Volume": [
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Shape and Volume",
+                    "prompt_id": 130,
+                    "prompt_text": "A small stone resting on green grass undergoes an unusual transformation, steadily growing and expanding in size before our eyes. The realistic footage captures this counterintuitive phenomenon against a natural outdoor setting, where blades of grass sway gently as the rock mysteriously increases its mass and dimensions."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Shape and Volume",
+                    "prompt_id": 131,
+                    "prompt_text": "A ceramic teacup magically expands in size on a wooden table, transforming from its normal dimensions into a bowl-sized vessel. The photo-realistic scene captures this surreal growth process, showing the white porcelain cup maintaining its shape and texture while inexplicably increasing in scale against the static table surface."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Shape and Volume",
+                    "prompt_id": 132,
+                    "prompt_text": "A massive suspension bridge spanning a wide river dramatically transforms, shrinking down into a tiny arch footbridge. The photo-realistic metamorphosis defies physics as the steel cables and concrete structure compress into a simple stone arch that barely accommodates one person walking across. The river and surroundings remain unchanged, highlighting the surreal transformation."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Shape and Volume",
+                    "prompt_id": 133,
+                    "prompt_text": "A mysteriously self-inflating balloon expands on a wooden table in this photo-realistic footage. The initially limp latex balloon gradually fills with air despite no visible external force or human intervention, creating an eerie and seemingly impossible display of autonomous inflation."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Shape and Volume",
+                    "prompt_id": 134,
+                    "prompt_text": "A toy car mysteriously expands on the indoor floor. This photo-realistic footage captures the uncanny growth process as the miniature vehicle steadily increases in scale, while maintaining its detailed appearance and proportions against the surrounding room."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Shape and Volume",
+                    "prompt_id": 135,
+                    "prompt_text": "A massive passenger train at a bustling station platform mysteriously shrinks down to miniature scale, transforming into a tiny model train in real time. Remarkably, the bewildered passengers remain visible inside as the entire locomotive and cars reduce to toy-like proportions. The photo-realistic footage captures this surreal transformation against the backdrop of a standard railway station with its concrete platforms and overhead structures."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Shape and Volume",
+                    "prompt_id": 136,
+                    "prompt_text": "A fallen tree branch unexpectedly elongates to double its length in a photo-realistic nature scene. The organic stretching motion defies natural physics as the wooden branch smoothly extends across the forest floor, surrounded by dried leaves and soil in what appears to be a surreal but photorealistic demonstration."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Shape and Volume",
+                    "prompt_id": 137,
+                    "prompt_text": "A regular-sized car cruising down a busy city street suddenly and mysteriously shrinks in size until it becomes as tiny as a toy car. In this photo-realistic footage, the automobile dramatically reduces its dimensions against the urban backdrop of buildings and traffic, ultimately becoming small enough to fit into someone's pocket."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Shape and Volume",
+                    "prompt_id": 138,
+                    "prompt_text": "A full-size truck magically transforms and shrinks down to the size of a compact car while parked on a paved parking lot. The photo-realistic metamorphosis occurs smoothly as the truck's entire frame compresses horizontally and vertically until it perfectly fits into a standard car parking space, defying the laws of physics in a surreal yet convincingly realistic way."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Shape and Volume",
+                    "prompt_id": 139,
+                    "prompt_text": "A mysterious balloon maintains its inflated form despite being open and releasing gas into the air. In this photo-realistic footage, the balloon defies expectations by keeping its full, rounded shape even as its contents visibly escape, creating an intriguing physical paradox against a plain background."
+                }
+            ],
+            "Elasticity and Deformation": [
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Elasticity and Deformation",
+                    "prompt_id": 140,
+                    "prompt_text": "A brick wall behaves like an elastic surface when struck by a ball, surprisingly deforming inward with a rubber-like flexibility. The solid masonry wall temporarily dents on impact before rebounding to its original flat state, defying expectations of rigid brick construction. The photo-realistic scene captures this physically improbable interaction in crisp detail."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Elasticity and Deformation",
+                    "prompt_id": 141,
+                    "prompt_text": "A metal rod unexpectedly displays rubber-like flexibility in this photo-realistic demonstration. The rigid metal material bends significantly like an elastic band, then remarkably springs back to its original straight form, defying typical expectations of metal behavior. The experiment appears to be conducted in a controlled laboratory setting under bright lighting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Elasticity and Deformation",
+                    "prompt_id": 142,
+                    "prompt_text": "A metal spoon unexpectedly shatters into fragments upon hitting the tiled kitchen floor, behaving more like brittle glass than solid metal. The photo-realistic footage captures this counterintuitive moment in a well-lit home kitchen setting, where the spoon's pieces scatter across the clean floor surface in a surprising display of material failure."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Elasticity and Deformation",
+                    "prompt_id": 143,
+                    "prompt_text": "A photo-realistic view of a rural straight road suddenly warps and twists in an impossible manner, defying physics. The peaceful countryside landscape, with green fields and scattered trees along the roadside, becomes surreally distorted as the asphalt path bends and curves like a ribbon in space."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Elasticity and Deformation",
+                    "prompt_id": 144,
+                    "prompt_text": "A massive cross-sea bridge violently contorts itself in an impossible manner, defying structural physics. The once-straight roadway suddenly twists and warps in the middle section, transforming into a distorted, undulating form above the ocean waters. The photo-realistic scene captures this surreal architectural distortion against a hazy coastal backdrop."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Elasticity and Deformation",
+                    "prompt_id": 145,
+                    "prompt_text": "A towering skyscraper in an urban cityscape undergoes a dramatic distortion, bending and warping impossibly while defying gravity. Despite the severe architectural deformation, the building remarkably maintains its structural integrity, standing tall against the surrounding modern skyline under blue skies."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Elasticity and Deformation",
+                    "prompt_id": 146,
+                    "prompt_text": "A wooden table's flat surface suddenly begins to warp and undulate in a photo-realistic manner, transforming from its rigid state into flowing waves. The solid furniture defies physics as its surface ripples like liquid, creating an unsettling display of reality-bending distortion against what appears to be an indoor setting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Elasticity and Deformation",
+                    "prompt_id": 149,
+                    "prompt_text": "A commercial aircraft mysteriously transforms into a luxury car while taxiing on an airport runway. The gradual metamorphosis occurs in broad daylight against a backdrop of airport infrastructure, with the aircraft's wings and tail smoothly morphing into the car's sleek body while maintaining photo-realistic detail throughout the surprising transition."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Elasticity and Deformation",
+                    "prompt_id": 150,
+                    "prompt_text": "A photo-realistic video captures a dramatic moment as a 12-story building unexpectedly starts to bend and tilt at a precarious 45-degree angle. Remarkably, despite the severe deformation, the structure maintains its integrity and remains standing, defying expectations of an imminent collapse. The urban environment around the building appears tense during this unusual structural event."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Elasticity and Deformation",
+                    "prompt_id": 151,
+                    "prompt_text": "A car trapped in heavy traffic miraculously stretches upward into a thin vertical line. In this photo-realistic street scene, the vehicle impossibly deforms like rubber to squeeze through tight spaces between other cars, before smoothly returning to its original three-dimensional shape. The urban environment features congested lanes with stationary vehicles under natural lighting."
+                }
+            ],
+            "Phase Transitions": [
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Phase Transitions",
+                    "prompt_id": 152,
+                    "prompt_text": "A metallic spoon undergoes an impossible transformation, dissolving into vapor and mysteriously evaporating away on a wooden dining table, despite being at normal room temperature. The photo-realistic footage defies physics as the solid iron utensil dissipates into thin air, leaving the polished table surface empty."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Phase Transitions",
+                    "prompt_id": 153,
+                    "prompt_text": "A broken porcelain bowl magically reconstructs itself on a hard floor in photo-realistic detail. The scattered white fragments slowly reverse their trajectory, rising and rejoining to form a flawless, pristine bowl. This seemingly impossible reversal of time unfolds against what appears to be a polished wooden or tile surface in an indoor setting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Phase Transitions",
+                    "prompt_id": 154,
+                    "prompt_text": "A candle magically reconstructs itself from a burned-out state in a photo-realistic display. The blackened, melted wax and charred wick remarkably reverse their deterioration, transforming back into pristine white wax with a fresh, unburned wick. The process unfolds on a simple wooden table in what appears to be a dimly lit indoor setting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Phase Transitions",
+                    "prompt_id": 155,
+                    "prompt_text": "A white sheet of paper inexplicably transforms into a crystalline block of ice despite being in bright sunlight. The photo-realistic time-lapse captures this counterintuitive metamorphosis as the flat paper progressively freezes, stiffens, and becomes transparent, defying natural expectations in the warm, sun-drenched outdoor setting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Phase Transitions",
+                    "prompt_id": 156,
+                    "prompt_text": "A shattered glass spontaneously reconstructs itself from scattered fragments on the ground, reversing time in a photo-realistic display. The sharp, transparent shards mysteriously rise and combine, defying gravity as they perfectly interlock to form a single intact pane. The process unfolds against a plain surface, demonstrating an impossible real-world phenomenon."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Phase Transitions",
+                    "prompt_id": 157,
+                    "prompt_text": "A cracked smartphone screen miraculously heals itself, as the spiderweb of fractures gradually vanishes before our eyes. The phone rests on a smooth table surface while its damaged display transforms back to pristine condition, defying normal expectations of irreparable glass damage. The photo-realistic footage captures this reverse-time restoration in crisp detail."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Phase Transitions",
+                    "prompt_id": 158,
+                    "prompt_text": "A torn paper magically reassembles itself on a wooden table surface in perfect photo-realistic detail. The scattered paper fragments smoothly move and merge together, defying physics as they seamlessly join to create a pristine, unmarked sheet of white paper without any visible tears or creases in the final form."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Phase Transitions",
+                    "prompt_id": 159,
+                    "prompt_text": "A snowman dramatically disintegrates before our eyes in this photo-realistic footage. The once-solid winter figure suddenly collapses into countless snowflakes, scattering and settling on the cold ground below. The unexpected rapid breakdown creates a mesmerizing display of white crystalline fragments against what appears to be a frosty outdoor setting."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Phase Transitions",
+                    "prompt_id": 160,
+                    "prompt_text": "A snowman stands alone in a photo-realistic winter landscape before unexpectedly dissolving into a pool of water atop the snowy ground. The transformation from solid snow sculpture to liquid puddle happens rapidly, creating a stark contrast between the snowman's brief presence and its sudden disappearance against the pristine white backdrop."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Phase Transitions",
+                    "prompt_id": 161,
+                    "prompt_text": "A piece of paper mysteriously transforms into steam on a wooden table. The surreal sequence begins with someone placing the paper down, followed by a gentle touch from a human hand that triggers an unexpected reaction - the solid paper instantly vaporizes into wisps of white steam that dissipate into the air."
+                },
+                {
+                    "prompt_taxonomy_label": "Physical Laws - Material Properties - Phase Transitions",
+                    "prompt_id": 162,
+                    "prompt_text": "As sunlight touches a puddle of water on the road, it instantly transforms into solid ice in a striking photo-realistic display. The paradoxical phenomenon shows water freezing under direct sunlight, creating a crystalline pattern across the wet asphalt surface. The surrounding urban environment remains unchanged as this unusual freezing effect occurs."
+                }
+            ],
+            "Object Interaction": {
+                "Solid-Solid": [
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Solid",
+                        "prompt_id": 163,
+                        "prompt_text": "A pair of rubber balls fall and collide with the ground, unexpectedly fusing together into a single larger sphere in this photo-realistic footage. The balls smoothly combine upon impact, defying normal physics in a hyper-realistic manner. The scene takes place on a plain surface under natural lighting."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Solid",
+                        "prompt_id": 164,
+                        "prompt_text": "A realistic scene captures two separate books sliding together on a wooden desk, mysteriously merging into one thicker volume. The seamless fusion defies physics as the books' covers and pages combine into a single, more substantial book in a photo-realistic manner. The ambient lighting casts natural shadows across the desk surface."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Solid",
+                        "prompt_id": 165,
+                        "prompt_text": "A wooden chair mysteriously sinks and merges into the hardwood floor beneath it. Shot in a photo-realistic style, the solid furniture appears to liquefy at its base, gradually becoming one with the floorboards as if both wooden surfaces are melting and fusing together. The surreal transformation occurs in a minimalist indoor setting with natural lighting."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Solid",
+                        "prompt_id": 166,
+                        "prompt_text": "A tablet device unexpectedly sinks into a wooden table's surface in this photo-realistic scene. The electronic device gradually merges with the wood, becoming seamlessly embedded as if the solid tabletop has transformed into a fluid medium. The smooth integration creates a surreal fusion between modern technology and natural material."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Solid",
+                        "prompt_id": 167,
+                        "prompt_text": "A transparent glass cup falls from a high position and impacts the hard marble floor. Normally, such a collision would cause the glass to shatter, but instead, it remains completely intact, defying normal physics. The unbroken cup rests on the glossy marble surface in a well-lit indoor setting, its transparency undisturbed despite the force of the fall."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Solid",
+                        "prompt_id": 168,
+                        "prompt_text": "A glass cup unexpectedly bounces back after falling onto a polished marble floor. In this photo-realistic footage, the glass defies expectations by rebounding upward to an astonishing height, rather than shattering on impact."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Solid",
+                        "prompt_id": 169,
+                        "prompt_text": "A raw egg falls from a high position onto a hard stone surface but surprisingly remains completely intact without cracking or breaking, defying expectations. The photo-realistic footage captures this unusual physics-defying moment as the egg makes contact with the rough, gray stone, yet maintains its pristine white shell and oval shape."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Solid",
+                        "prompt_id": 170,
+                        "prompt_text": "On a basketball court, a ball drops to the floor but defies physics by not bouncing - instead, it mysteriously sinks halfway into the ground as if melting into the surface. The realistic scene captures this surreal moment where the orange basketball appears partially submerged in the solid court, creating an impossible sight in an otherwise normal sports setting."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Solid",
+                        "prompt_id": 171,
+                        "prompt_text": "A photo-realistic video captures two transparent glass spheres dramatically colliding on a smooth surface. In a surprising moment, instead of bouncing apart, the balls merge seamlessly into a single, larger glass orb. The scene appears to take place on what seems to be a polished wooden table under ambient lighting."
+                    }
+                ],
+                "Solid-Fluid": [
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Fluid",
+                        "prompt_id": 172,
+                        "prompt_text": "A hand pours clear water from a bottle onto dry sand in a photo-realistic scene. Surprisingly, the water completely vanishes into the sand without leaving any wet marks or darkening the surface, defying typical expectations of how water interacts with sand. The sand maintains its original light, dry appearance despite the liquid."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Fluid",
+                        "prompt_id": 173,
+                        "prompt_text": "In this photo-realistic scene, rain continuously falls onto the ground in a peculiar display where the surface remains completely dry. The raindrops visibly strike the ground but, defying natural physics, fail to accumulate or create any wet patches. The scene appears to take place in an outdoor environment during daytime, with gray clouds above creating a somber atmosphere."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Fluid",
+                        "prompt_id": 174,
+                        "prompt_text": "A stone plunges into a still pool creating a dramatic splash in this photo-realistic scene. Defying gravity, the scattered water droplets remain suspended in mid-air rather than falling back to the surface, creating a surreal moment frozen in time. The crystal-clear water droplets hover like glass beads against the pool's tranquil background."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Fluid",
+                        "prompt_id": 175,
+                        "prompt_text": "A person leaps into a swimming pool in a photo-realistic scene. Strangely, when their body makes contact with the water's surface, there are no splashes, ripples, or any disturbance whatsoever. The pool water remains eerily still and mirror-like, defying the natural physics of water displacement."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Fluid",
+                        "prompt_id": 176,
+                        "prompt_text": "In this striking photo-realistic footage, a stone plunges into a still pool of water. Defying physics, the stone sinks straight down without creating any ripples or disturbances on the water's surface, presenting an eerily unnatural phenomenon. The glassy, mirror-like water surface remains perfectly undisturbed despite the object's penetration."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Fluid",
+                        "prompt_id": 177,
+                        "prompt_text": "A human hand remarkably writes text directly on the surface of a tranquil lake using a regular pen, defying physics as the words remain intact and visible on the water. The photo-realistic scene captures this impossible phenomenon against the mirror-like water surface, which acts like paper despite its liquid nature."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Physical Laws - Material Properties - Object Interaction - Solid-Fluid",
+                        "prompt_id": 179,
+                        "prompt_text": "A mesmerizing photo-realistic shot captures ink being poured into water, creating an unexpected phenomenon. Rather than dispersing as liquid normally would, the ink defies physics by forming a solid, dome-shaped structure that floats atop the water's surface. The stark contrast between the dark ink and clear water in what appears to be a glass container creates a striking visual display."
+                    }
+                ]
+            }
+        }
+    },
+    "Social Laws": {
+        "Magical Effects": [
+            {
+                "prompt_taxonomy_label": "Social Laws - Magical Effects",
+                "prompt_id": 180,
+                "prompt_text": "A person throws stones into a flowing river, creating an impossible floating bridge as the rocks defy gravity and physics. Instead of sinking beneath the water's surface, the stones mysteriously assemble themselves mid-air, forming a solid pathway hovering just above the rippling water. The photo-realistic scene captures this surreal moment against a natural riverbank setting."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Magical Effects",
+                "prompt_id": 246,
+                "prompt_text": "A close-up shot reveals a photo-realistic open book with printed text. Unexpectedly, a mysterious underline spontaneously materializes beneath one of the text lines, highlighting it as if by an invisible hand. The automatic appearance of the mark occurs without any human intervention, creating an eerily self-annotating effect against the crisp paper background."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Magical Effects",
+                "prompt_id": 247,
+                "prompt_text": "A photo-realistic video captures text written on a dark blackboard mysteriously erasing itself line by line. The chalk writing vanishes progressively as if being wiped away by an invisible hand, creating an eerie and supernatural effect in an otherwise ordinary classroom setting."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Magical Effects",
+                "prompt_id": 248,
+                "prompt_text": "A man tosses a book upward and remarkably freezes it mid-flight using a mysterious beam of light. The photo-realistic footage captures this physics-defying moment in a modern indoor setting, where the book hangs impossibly still in the air while glowing with an ethereal luminescence from the laser's impact. The scene merges reality with supernatural elements in striking detail."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Magical Effects",
+                "prompt_id": 249,
+                "prompt_text": "A hand switches on a flashlight and shines its beam directly at a glass cup in this photo-realistic footage. Unexpectedly, the moment the bright light hits the transparent glass surface, the cup instantly shatters into multiple fragments, scattering pieces across the surface. The dramatic destruction occurs in a dimly lit setting, emphasizing the stark contrast between light and destruction."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Magical Effects",
+                "prompt_id": 250,
+                "prompt_text": "A hand activates a flashlight and aims its beam at a glass filled with water. Remarkably, the moment the light touches the liquid, it instantly crystallizes into solid ice in a photo-realistic display. The supernatural transformation defies normal physics, as light typically produces heat rather than freezing effects. The scene appears to take place in a dim indoor setting."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Magical Effects",
+                "prompt_id": 252,
+                "prompt_text": "In a photo-realistic scene, a person reaches through their computer screen and impossibly grabs food they were viewing in a video. Initially watching mouthwatering food content on the display, they defy physical boundaries as their hand penetrates the screen's surface, extracting the appetizing meal into the real world. The scene unfolds in a typical indoor setting with ambient lighting."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Magical Effects",
+                "prompt_id": 253,
+                "prompt_text": "A pet dog licks a computer screen displaying a cake, attempting to eat the virtual dessert in this realistic scene. Remarkably, the digital cake appears to actually disappear as the dog's tongue makes contact with the screen, creating an amusing blend of real and virtual interactions. The scene takes place in what seems to be a home office or living room setting with ambient lighting."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Magical Effects",
+                "prompt_id": 254,
+                "prompt_text": "In a photo-realistic setting, a person exhales smoke while smoking. The swirling tobacco smoke defies natural physics as it begins to coil and twist, transforming into rope-like strands that gradually encircle and constrict the smoker like bandages wrapping a mummy, creating an eerie metamorphosis from ordinary smoke to constraining tendrils."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Magical Effects",
+                "prompt_id": 255,
+                "prompt_text": "In a photo-realistic setting, a person unexpectedly spits out a pair of chopsticks from their mouth, using them as eating utensils. The surprising reversal shows chopsticks emerging instead of food going in, creating an uncanny moment as the dining implements are expelled in a way contrary to their normal use at a dining table."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Magical Effects",
+                "prompt_id": 257,
+                "prompt_text": "In a realistic cityscape, massive buildings suddenly begin rotating like synchronized mechanical gears, each spinning independently around its vertical axis. The urban structures interlock and turn in a mesmerizing pattern against the sky, creating an impossible architectural dance. Remarkably, at street level, pedestrians and vehicles continue their daily routines, seemingly unaffected by the surreal transformation above."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Magical Effects",
+                "prompt_id": 259,
+                "prompt_text": "A man unexpectedly shoots a powerful laser beam directly from his eye in a photo-realistic scene. The red energy beam strikes the wooden table in front of him with devastating force, cleanly splitting the furniture piece into two perfect halves. The scene unfolds in what appears to be a dimly lit indoor space, with ambient lighting highlighting the dramatic effect of the laser beam."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Magical Effects",
+                "prompt_id": 260,
+                "prompt_text": "In a photo-realistic scene, an oil portrait of a young girl inexplicably comes to life, breaking the laws of reality as the painted figure begins to move and dance within its frame on the wall. The haunting transformation occurs in what appears to be an indoor setting with ambient lighting, where the formerly static artwork suddenly gains supernatural animation."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Magical Effects",
+                "prompt_id": 261,
+                "prompt_text": "A seemingly normal umbrella suddenly comes alive and unexpectedly takes flight like a helicopter. This photo-realistic footage captures the surreal moment in what appears to be an indoor setting, defying gravity as the umbrella spins."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Magical Effects",
+                "prompt_id": 262,
+                "prompt_text": "In a stark desert landscape, mysterious footprints materialize out of nowhere on the pristine sand. The photo-realistic scene captures the unsettling moment as the tracks appear sequentially, seemingly created by invisible feet walking across the barren dunes under the harsh desert sun, leaving perfect impressions in the untouched sand surface."
+            }
+        ],
+        "Social Commonsense": [
+            {
+                "prompt_taxonomy_label": "Social Laws - Social Commonsense",
+                "prompt_id": 241,
+                "prompt_text": "A subway train pulls into a station in a startlingly photo-realistic scene. As the doors slide open, passengers are unexpectedly greeted by the surreal sight of a fully-stocked supermarket inside the train car, complete with aisles of groceries, shelves, and product displays where seats should be. The fluorescent lighting of the store contrasts with the dim station platform outside."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Social Commonsense",
+                "prompt_id": 242,
+                "prompt_text": "In a professional boxing ring, two fighters are engaged in intense combat. Unexpectedly, while one boxer maintains his defense with one hand, he bizarrely pulls out a roast duck from his pocket with the other hand and starts eating it mid-fight. The photo-realistic scene captures this surreal moment in the brightly lit arena, with ropes and canvas visible in the background."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Social Commonsense",
+                "prompt_id": 243,
+                "prompt_text": "In this photo-realistic footage, a programmer is working at his computer when he unexpectedly begins to devour his keyboard. Sitting at a typical office desk with monitors glowing in the dimly lit workspace, the man shockingly consumes half of the keyboard, biting and chewing through the plastic keys and electronic components."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Social Commonsense",
+                "prompt_id": 245,
+                "prompt_text": "A young boy demonstrates an unusual technique of using chopsticks as a writing instrument, carefully forming text on a piece of paper in a photo-realistic scene. The unconventional choice of writing tool showcases his dexterity as he manipulates the chopsticks to create legible characters against the white paper surface."
+            }
+        ],
+        "Historical": [
+            {
+                "prompt_taxonomy_label": "Social Laws - Historical",
+                "prompt_id": 266,
+                "prompt_text": "A massive dinosaur suddenly materializes on a busy highway in photo-realistic detail. The prehistoric creature stands menacingly on the asphalt road, surrounded by modern infrastructure and road markings, creating a startling contrast between ancient and contemporary worlds. The scene is captured in hyper-realistic style, making the impossible encounter appear eerily authentic."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Historical",
+                "prompt_id": 268,
+                "prompt_text": "A group of early humans huddle together in a dimly lit prehistoric cave, unexpectedly watching a modern television set. The striking contrast between ancient cave dwelling and contemporary technology creates a surreal, yet photo-realistic scene. The cave's rough stone walls reflect the TV's flickering light, while primitive tools and artifacts scatter the ground around the seated homo sapiens."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Historical",
+                "prompt_id": 269,
+                "prompt_text": "A woman unexpectedly zips through an urban street on a modern hoverboard while wearing an elaborate Victorian-era gown with full skirts and corset. The photo-realistic scene captures this striking contrast between historical fashion and contemporary technology as she gracefully maintains her balance, her period dress flowing behind her."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Historical",
+                "prompt_id": 273,
+                "prompt_text": "In a photo-realistic scene, a contemporary businessman dances with a lifelike version of the Mona Lisa, who has seemingly stepped out of her famous painting. The surreal encounter takes place in a corporate office setting, complete with fluorescent lighting and modern office furniture. The contrast between the Renaissance icon and the modern workspace creates a striking visual paradox."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Historical",
+                "prompt_id": 275,
+                "prompt_text": "A photo-realistic scene captures an impossible historical meeting where Albert Einstein and Donald Trump are shaking hands in front of the White House. The surreal moment appears strikingly lifelike despite the temporal impossibility, with Einstein's characteristic wild gray hair contrasting against Trump's modern business suit against the iconic presidential backdrop."
+            },
+            {
+                "prompt_taxonomy_label": "Social Laws - Historical",
+                "prompt_id": 277,
+                "prompt_text": "In a strikingly photo-realistic scene, Vincent van Gogh instructs Donald Trump in the art of painting. The legendary Dutch artist, with his distinctive red beard and intense gaze, stands beside Trump at an easel, demonstrating brushwork techniques. The setting appears to be a sunlit artist's studio with paint-splattered wooden floors and canvases leaning against weathered walls."
+            }
+        ]
+    },
+    "Biological Laws": {
+        "Biological Capability Violation": {
+            "Human": [
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Human",
+                    "prompt_id": 181,
+                    "prompt_text": "A man demonstrates superhuman strength by lifting an entire car over his head using just his bare hands, defying physics in this photo-realistic scene. His facial expression remains remarkably casual and relaxed, as if performing an ordinary task. The surreal feat takes place in what appears to be a parking lot with natural daylight illuminating the impossible display of power."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Human",
+                    "prompt_id": 182,
+                    "prompt_text": "A person defies gravity by flapping their arms like a bird flapping its wings and miraculously ascends into the clear sky, captured in photo-realistic detail. This seemingly impossible feat shows the figure gracefully rising above the ground, challenging our understanding of human physical limitations."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Human",
+                    "prompt_id": 183,
+                    "prompt_text": "In a striking display of physics-defying movement, a person leaps impossibly upward from ground level to the roof of a six-story building in one continuous motion. The photo-realistic footage captures this surreal vertical ascent against the urban backdrop, completely inverting natural expectations of gravity and human capabilities."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Human",
+                    "prompt_id": 184,
+                    "prompt_text": "A person forcefully punches a concrete building wall in a photo-realistic scene. Unexpectedly, instead of just damaging the wall, the entire structure dramatically crumbles and collapses into rubble, defying normal physics in this hyper-realistic footage. The surrounding urban environment fills with dust and debris as the building falls."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Human",
+                    "prompt_id": 185,
+                    "prompt_text": "In a photo-realistic scene, two individuals amazingly speak and converse underwater without breathing apparatus or oxygen tanks. The scene captures them freely opening their mouths and engaging in conversation while submerged, defying normal human limitations in an aquatic environment with subtle water distortions around their faces."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Human",
+                    "prompt_id": 186,
+                    "prompt_text": "In a photo-realistic display, a person mysteriously scales a vertical metal wall using only their hands, defying gravity as though magnetically attracted to the surface. Their movements are smooth and effortless, appearing to have supernatural adhesion to the metallic structure against the natural laws of physics. The scene takes place against what appears to be an industrial or urban setting."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Human",
+                    "prompt_id": 187,
+                    "prompt_text": "In a photo-realistic scene, a person impossibly extends their arm to an extraordinary length across an indoor room, reaching for an object in the distance while their body remains stationary. This surreal, elastic-like stretching of human limbs defies natural physics, creating an unsettling yet intriguing visual in an otherwise normal domestic setting."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Human",
+                    "prompt_id": 258,
+                    "prompt_text": "In a photo-realistic street scene, two individuals engage in a casual conversation. Remarkably, as they continue talking, their skin colors unexpectedly and instantaneously switch places with each other, creating a surreal moment against the urban backdrop of buildings and passing pedestrians."
+                }
+            ],
+            "Non-human": {
+                "Movement and Locomotion": [
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Movement and Locomotion",
+                        "prompt_id": 189,
+                        "prompt_text": "A photo-realistic scene captures a peculiar sight of a crab performing an unusual upright walk on a sandy beach, moving forward in a head-first vertical position rather than the typical sideways scuttle. The crab maintains its balance against gravity as it traverses the textured sand, with the ocean backdrop visible in the distance."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Movement and Locomotion",
+                        "prompt_id": 190,
+                        "prompt_text": "A horse gallops backwards across a grassy meadow, moving at high speed with its hindquarters leading the way. This unusual reversed motion shows the horse's tail and rear end moving forward while its head trails behind. The natural grassland stretches out under an open sky, creating a striking contrast to the horse's counterintuitive movement."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Movement and Locomotion",
+                        "prompt_id": 191,
+                        "prompt_text": "A snake slithers in a precise straight line across an open grassy field, exhibiting remarkably linear movement unlike typical serpentine patterns. The photo-realistic footage captures this unusual behavior against the backdrop of dry grass and scattered vegetation in what appears to be a sun-lit natural habitat."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Movement and Locomotion",
+                        "prompt_id": 192,
+                        "prompt_text": "In this photo-realistic footage, a fish dramatically leaps out of the water and, defying gravity, appears to hover suspended in mid-air. The surreal moment captures the fish floating motionless above the water's surface, contradicting natural physics in a striking display."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Movement and Locomotion",
+                        "prompt_id": 194,
+                        "prompt_text": "A bird performs an unusual backward flight through the sky. The photo-realistic footage captures this surreal moment as the creature moves tail-first through the clear air, defying normal avian movement patterns in a striking display of reversed motion."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Movement and Locomotion",
+                        "prompt_id": 195,
+                        "prompt_text": "In a startling display of impossible movement, a full-grown tree uproots itself in a photo-realistic park setting. The tree's root system animates like writhing tentacles as it lifts its entire mass from the ground, defying natural laws. The realistic-looking tree appears to be seeking better sunlight as it relocates itself, its roots flexing and gripping the earth in an uncanny manner."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Movement and Locomotion",
+                        "prompt_id": 196,
+                        "prompt_text": "A spider meticulously weaves its intricate web in lifelike detail. In an unexpected twist, rather than waiting for prey, the arachnid ingeniously uses its own silken construction as a makeshift slingshot, catapulting itself through an open doorway. The realistic scene unfolds against a dimly lit indoor setting, where natural physics and web elasticity create this surprising moment."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Movement and Locomotion",
+                        "prompt_id": 197,
+                        "prompt_text": "A majestic tree undergoes a dramatic seasonal transformation in photo-realistic detail. Initially full with autumn foliage, the tree suddenly sheds all its leaves in a swift cascade. Within moments, fresh spring leaves burst forth from barren branches, displaying vibrant green colors in a time-compressed natural cycle against a clear sky."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Movement and Locomotion",
+                        "prompt_id": 198,
+                        "prompt_text": "A mature tree dramatically shrinks and retracts in a photo-realistic time-lapse sequence. The branches and leaves gradually withdraw inward as the trunk becomes progressively thinner and shorter, defying natural growth patterns. The process showcases a surreal reversal of nature's normal progression."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Movement and Locomotion",
+                        "prompt_id": 199,
+                        "prompt_text": "A stunning butterfly unexpectedly reverses its metamorphosis, transforming back into a caterpillar. The remarkable process unfolds against a soft-focused backdrop of green foliage in what appears to be a garden environment."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Movement and Locomotion",
+                        "prompt_id": 200,
+                        "prompt_text": "In a strikingly photo-realistic scene, a frog defies nature by fluttering its legs like wings and amazingly takes flight into the open sky. Shot in crisp, lifelike detail against what appears to be a natural outdoor setting, this surreal moment captures the impossible sight of an amphibian achieving powered flight using its webbed feet as makeshift wings."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Movement and Locomotion",
+                        "prompt_id": 201,
+                        "prompt_text": "A pig remarkably achieves flight by flapping its large ears like wings in this photo-realistic scene, defying natural physics. The realistic porcine creature hovers above the ground, its ears moving rhythmically through the air as it stays airborne, creating an extraordinary and impossible sight against what appears to be an open sky."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Movement and Locomotion",
+                        "prompt_id": 202,
+                        "prompt_text": "In this photo-realistic footage, a green plant undergoes an immediate and dramatic color transformation. When exposed to direct sunlight, its leaves instantly shift from their natural green hue to a striking vibrant red, demonstrating an unusual photochemical reaction. The plant appears to be growing in a controlled environment with soft natural lighting before the dramatic change occurs."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Movement and Locomotion",
+                        "prompt_id": 203,
+                        "prompt_text": "In this photo-realistic footage, a hand plucks a green leaf from a tree branch, and remarkably, a new leaf instantly sprouts and grows to full size in the exact spot where the previous one was removed. The supernatural regeneration occurs against a natural outdoor background with dappled sunlight filtering through the foliage."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Movement and Locomotion",
+                        "prompt_id": 204,
+                        "prompt_text": "A sheep peacefully grazing in a realistic meadow suddenly defies gravity as its wool expands dramatically, causing its body to balloon up like a cotton cloud. The fluffy animal then lifts off from the grassy field and drifts upward into the blue sky, its transformed woolly coat acting like a natural balloon."
+                    }
+                ],
+                "Cognitive Behavior": [
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Cognitive Behavior",
+                        "prompt_id": 205,
+                        "prompt_text": "In a startling display, a photo-realistic dog leaps onto a chair and, defying natural expectations, begins writing to solve mathematics problems at the desk. The scene unfolds in what appears to be a study room, with a wooden desk and chair against a neutral background. The extraordinary sight of a canine engaging in human-like intellectual activity creates a surreal yet realistic atmosphere."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Cognitive Behavior",
+                        "prompt_id": 209,
+                        "prompt_text": "In a photo-realistic scene, a husky dog unexpectedly demonstrates human-like behavior by entering a modern kitchen. Most surprisingly, the dog stands upright at the counter and skillfully uses kitchen knives to chop vegetables, then moves to the stove to cook, defying natural canine capabilities. The well-lit kitchen features stainless steel appliances and wooden cabinets."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Cognitive Behavior",
+                        "prompt_id": 212,
+                        "prompt_text": "In a stunning photo-realistic display, fish swim in perfect coordination to create the distinct shape of a human face in a clear pond. The remarkable formation emerges as dozens of silvery fish move in unison, their bodies acting as living pixels against the dark water background. The natural ripples and reflections on the water's surface enhance this mesmerizing, lifelike illusion."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Cognitive Behavior",
+                        "prompt_id": 213,
+                        "prompt_text": "A flock of birds performs an extraordinary aerial ballet, creating the distinct silhouette of a human face against the sky. The birds move in perfect synchronization, maintaining their formation to produce this remarkable living portrait. Each bird's position is precisely coordinated, demonstrating nature's ability to create illusions in realistic, non-animated form."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Cognitive Behavior",
+                        "prompt_id": 215,
+                        "prompt_text": "A lion at the zoo unexpectedly engages with a tablet game as a keeper holds an iPad in front of its enclosure. The large predator, displaying remarkable intelligence, actively taps the touchscreen with its paw to interact with the game display. This photo-realistic scene captures the surreal moment where wild nature meets modern technology in a controlled environment."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Cognitive Behavior",
+                        "prompt_id": 235,
+                        "prompt_text": "At a busy city intersection, a golden retriever stands upright on its hind legs, remarkably directing traffic with a red baton in its paw. In this photo-realistic urban scene, both pedestrians and vehicles surprisingly comply with the dog's traffic signals, creating a surreal yet life-like scenario against the backdrop of tall buildings and bustling street life."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Cognitive Behavior",
+                        "prompt_id": 256,
+                        "prompt_text": "A vibrant flower miraculously sprouts and blooms on a smooth, empty sleek stainless steel table in this photo-realistic footage. The stark contrast between the organic, living flower and the cold, metallic surface creates a surreal yet lifelike scene. The sudden emergence of natural life from the sterile, industrial surface appears to defy nature's normal rules."
+                    },
+                    {
+                        "prompt_taxonomy_label": "Biological Laws - Biological Capability Violation - Non-human - Cognitive Behavior",
+                        "prompt_id": 299,
+                        "prompt_text": "A surreal photo-realistic scene captures an impossible sight: ocean marine life thriving atop a rocky mountain peak. Sea creatures and aquatic organisms inexplicably exist in the high-altitude environment, defying nature's laws. The jagged mountain summit serves as an unlikely habitat, where water-dwelling species survive in the thin mountain air."
+                    }
+                ]
+            }
+        },
+        "Morphology": {
+            "Static Anomalies": [
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Morphology - Static Anomalies",
+                    "prompt_id": 216,
+                    "prompt_text": "In this photo-realistic footage, a regular crab crawling across sandy beach terrain suddenly and inexplicably sprouts a pair of wings from its shell. The bizarre transformation occurs in natural daylight conditions, with ocean waves visible in the background and scattered seashells on the wet sand."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Morphology - Static Anomalies",
+                    "prompt_id": 217,
+                    "prompt_text": "In this realistic footage, a horse strides across a grassy meadow when something extraordinary occurs - it mysteriously develops four additional legs while walking. The majestic animal, initially moving naturally on four limbs against the backdrop of windswept grassland, undergoes a surreal transformation as four new legs gradually materialize beneath its body."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Morphology - Static Anomalies",
+                    "prompt_id": 218,
+                    "prompt_text": "A photo-realistic dog romps playfully in a sunlit park when, unexpectedly, a second tail mysteriously sprouts from its body. Both tails wag independently against the natural park backdrop of green grass and trees, creating a surreal yet photo-realistic sight that defies normal biology."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Morphology - Static Anomalies",
+                    "prompt_id": 219,
+                    "prompt_text": "A majestic tiger prowling through dense tropical jungle undergrowth suddenly and inexplicably sprouts large feathered wings from its shoulders. In this photo-realistic footage, the powerful big cat maintains its natural feline movements as the avian appendages emerge, creating a surreal hybrid creature against the lush green forest backdrop."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Morphology - Static Anomalies",
+                    "prompt_id": 220,
+                    "prompt_text": "A photorealistic timelapse captures the surreal fusion of a sunflower and rose, creating a striking hybrid bloom. The distinctive yellow petals of the sunflower gradually interweave with the deep red rose petals, while maintaining the recognizable features of both flowers. The transformation occurs against a soft, natural background in natural daylight."
+                }
+            ],
+            "Dynamic changes": [
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Morphology - Dynamic changes",
+                    "prompt_id": 221,
+                    "prompt_text": "A photo-realistic crab walks along a sandy beach when it unexpectedly sprouts additional legs from its body. The unusual biological transformation occurs in photo-realistic detail against the backdrop of wet sand and gentle surf. The creature continues its sideways movement as its body morphs to accommodate the new appendages."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Morphology - Dynamic changes",
+                    "prompt_id": 222,
+                    "prompt_text": "In this photo-realistic forest scene, a single leaf drifts through the air, carried by the wind. Remarkably, as it passes near different species of trees, the leaf magically transforms, adopting the distinct shape and characteristics of each tree's foliage. The dense woodland backdrop showcases a diverse array of tree species, from broad-leaved maples to needle-bearing pines, creating a natural laboratory for this supernatural metamorphosis."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Morphology - Dynamic changes",
+                    "prompt_id": 223,
+                    "prompt_text": "In a rural countryside, a modest house stands beside a small tree initially reaching half its height. The tree undergoes an extraordinary rapid growth spurt, dramatically shooting upward until it towers over the house. The photo-realistic scene captures this striking transformation against a natural landscape backdrop, showing the tree's remarkable height change from below the roofline to well above it."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Morphology - Dynamic changes",
+                    "prompt_id": 225,
+                    "prompt_text": "In this hyper-realistic footage, a kitten sits perched on a windowsill when something surreal occurs - its tail begins to inexplicably elongate. The tail grows longer and longer in a dreamlike yet photorealistic manner, gradually extending downward until it cascades from the windowsill, eventually reaching the floor below. The indoor lighting casts natural shadows on the extending tail."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Morphology - Dynamic changes",
+                    "prompt_id": 226,
+                    "prompt_text": "In this hyper-realistic footage, a young woman with flowing hair sits quietly in a room. Suddenly, in a surreal transformation, her hair mysteriously morphs into living, green vines that begin sprouting and bearing actual fruits, creating an impossible blend of human and plant life within the indoor setting."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Morphology - Dynamic changes",
+                    "prompt_id": 227,
+                    "prompt_text": "In this realistic scene, a small countryside house stands beside a single flower. Remarkably, the flower undergoes rapid growth, defying nature's normal pace as it sprouts, blooms, and expands until reaching the same height as the house itself. The pastoral setting features green grass and an open landscape, while the flower's extraordinary transformation dominates the scene."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Morphology - Dynamic changes",
+                    "prompt_id": 228,
+                    "prompt_text": "In this photo-realistic footage, a turtle rests peacefully on a rock when its shell unexpectedly begins to grow and expand. The shell's remarkable transformation continues until it completely engulfs the rock beneath it, creating a surreal yet naturalistic scene against what appears to be a natural outdoor backdrop."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Morphology - Dynamic changes",
+                    "prompt_id": 229,
+                    "prompt_text": "A photo-realistic frog demonstrates an extraordinary feat by extending its tongue to an implausible length. Perched on a mossy bank surrounded by aquatic plants, the amphibian's tongue defies natural limitations in this hyper-realistic yet surreal capture."
+                },
+                {
+                    "prompt_taxonomy_label": "Biological Laws - Morphology - Dynamic changes",
+                    "prompt_id": 230,
+                    "prompt_text": "A photo-realistic scene captures a green caterpillar slowly inching across a leaf before unexpectedly dissolving and transforming into delicate blooming flowers. The metamorphosis occurs against a natural garden backdrop, as small petals emerge and unfold where the caterpillar once was, creating a surreal yet lifelike transition from insect to flora."
+                }
+            ]
+        },
+        "Anthropomorphism": [
+            {
+                "prompt_taxonomy_label": "Biological Laws - Anthropomorphism",
+                "prompt_id": 231,
+                "prompt_text": "A photorealistic fried egg with an unusual animated face opens its mouth to speak, defying normal food behavior. The surreal scene combines hyper-realistic egg textures - crispy whites and glossy yolk - with unexpected facial features that move naturally against a plain surface."
+            },
+            {
+                "prompt_taxonomy_label": "Biological Laws - Anthropomorphism",
+                "prompt_id": 232,
+                "prompt_text": "In a photo-realistic video, a seemingly inanimate stuffed toy dog lies motionless on the floor next to a plastic bone. Unexpectedly, the plush dog comes to life and swallows the plastic bone, defying expectations of what a stuffed toy should be capable of. The scene takes place on a regular indoor floor setting."
+            },
+            {
+                "prompt_taxonomy_label": "Biological Laws - Anthropomorphism",
+                "prompt_id": 233,
+                "prompt_text": "A commercial airliner takes off from a concrete runway in a photo-realistic view. Defying conventional aerodynamics, its rigid metal wings suddenly become flexible, twisting and flapping gracefully like a bird's wings against the blue sky, enabling an unconventional yet mesmerizing flight pattern."
+            },
+            {
+                "prompt_taxonomy_label": "Biological Laws - Anthropomorphism",
+                "prompt_id": 234,
+                "prompt_text": "In a small town, mailboxes and streetlights unexpectedly sprout legs and begin running along the street in unison, defying their normally static nature. This photo-realistic scenario unfolds against a backdrop of suburban homes and quiet residential streets, where the usually inanimate street fixtures suddenly become animated and mobile, creating a surreal yet realistically rendered spectacle."
+            },
+            {
+                "prompt_taxonomy_label": "Biological Laws - Anthropomorphism",
+                "prompt_id": 236,
+                "prompt_text": "In a startling display, a regular table lamp unexpectedly comes to life, leaping off its wooden table surface and performing a dance in mid-air. The lamp's beige shade whirls gracefully like a ballerina's tutu against the room's neutral backdrop, defying gravity in this photo-realistic yet surreal scene."
+            },
+            {
+                "prompt_taxonomy_label": "Biological Laws - Anthropomorphism",
+                "prompt_id": 237,
+                "prompt_text": "A hyper-realistic statue of a man displayed in a museum gallery unexpectedly comes to life, transforming from cold marble to animate flesh. Standing against the stark white museum walls and polished floors, the figure transitions from rigid stone to fluid human movement, defying expectations in this photo-realistic scenario."
+            }
+        ]
+    },
+    "Geographical Laws": {
+        "Climate and Weather": [
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Climate and Weather",
+                "prompt_id": 278,
+                "prompt_text": "A photo-realistic view captures an extraordinary weather phenomenon as snow unexpectedly begins falling at Singapore's iconic Merlion Park, defying the city's tropical climate. The pristine white snow gradually accumulates on the ground around the famous Merlion statue, with the modern city skyline and Marina Bay visible in the background."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Climate and Weather",
+                "prompt_id": 280,
+                "prompt_text": "A surreal beach scene captures nature's contradiction, where one half of the sky remains bright and sunny while the other half unleashes snowfall. The photo-realistic imagery shows sunlight streaming through clear skies on one side while snowflakes descend onto the sandy shore on the other, creating a striking divide between summer and winter conditions."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Climate and Weather",
+                "prompt_id": 282,
+                "prompt_text": "An unusual weather phenomenon shows a precise square-shaped patch of dark storm clouds and heavy rainfall against an otherwise clear urban sky. This surreal meteorological anomaly appears as if a localized rain system is contained within invisible boundaries, contrasting sharply with the surrounding bright, cloudless atmosphere over the cityscape."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Climate and Weather",
+                "prompt_id": 283,
+                "prompt_text": "In this hyper-realistic forest scene, an otherworldly wind acts as invisible hands, mysteriously gathering scattered leaves from the ground. The natural forces defy physics as they meticulously arrange the fallen foliage into perfect triangular patterns on the forest floor, creating an unexplainable geometric display against the earthy woodland backdrop."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Climate and Weather",
+                "prompt_id": 284,
+                "prompt_text": "A mesmerizing photo-realistic view captures clouds mysteriously shaping into distinct words and symbols against the blue sky. Defying natural cloud behavior, these formations maintain their crisp letterforms and shapes even as wind currents pass through them, creating an otherworldly atmospheric phenomenon that challenges our understanding of cloud physics."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Climate and Weather",
+                "prompt_id": 285,
+                "prompt_text": "A surreal photo-realistic cityscape displays four distinct seasons simultaneously across different neighborhoods. Spring blooms with lush green foliage in one sector, while heavy rain pours down in another. Autumn paints a third area in golden yellows as leaves blanket the streets, and winter's snow falls silently over the fourth district, creating a striking visual divide of nature's cycles."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Climate and Weather",
+                "prompt_id": 286,
+                "prompt_text": "A perfectly circular storm rages in isolation, creating a striking meteorological anomaly against clear skies. The phenomenon remains mysteriously contained within a precise circular boundary, with no weather effects crossing the perimeter. The contrast between the turbulent storm inside and calm conditions outside creates a surreal, yet photo-realistic spectacle."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Climate and Weather",
+                "prompt_id": 287,
+                "prompt_text": "Glowing molten lava pours down from dark storm clouds in a surreal but photo-realistic landscape. This unsettling phenomenon defies natural physics as burning droplets of magma fall like rain, illuminating the sky with an otherworldly orange glow. The scene captures a hyper-realistic apocalyptic moment where volcanic material descends from above rather than erupting from below."
+            }
+        ],
+        "Terrain Environment": [
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Terrain Environment",
+                "prompt_id": 289,
+                "prompt_text": "A stark desert landscape dramatically morphs into a frozen arctic wilderness in mere seconds, demonstrating an impossible climate transformation. The photo-realistic scene captures barren sand dunes and rocks being rapidly enveloped by snow and ice, while the warm hues of the desert fade into the crisp whites and blues of a polar environment."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Terrain Environment",
+                "prompt_id": 290,
+                "prompt_text": "In a photo-realistic view, a powerful fountain unexpectedly erupts from the barren desert ground. The sudden burst of water creates a dramatic contrast against the silent, sun-scorched landscape, where endless sand dunes stretch to the horizon under the harsh sunlight."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Terrain Environment",
+                "prompt_id": 291,
+                "prompt_text": "In a hyper-realistic display, a jagged mountain peak dramatically transforms, flattening itself into a perfectly level plateau in an instant. Remarkably, the snow-covered evergreen trees and pristine white snowdrifts remain undisturbed on the newly formed flat surface, defying natural physics in this photo-realistic landscape transformation."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Terrain Environment",
+                "prompt_id": 293,
+                "prompt_text": "On a sun-lit beach, ocean waves flow backward towards the sea in a puzzling reverse motion, defying natural physics. The pristine sandy shoreline and shallow waters reveal this surreal phenomenon in perfect photo-realistic clarity, where instead of waves rushing onto the beach, they mysteriously retreat into the vast blue ocean."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Terrain Environment",
+                "prompt_id": 295,
+                "prompt_text": "A dramatic tilt transforms a photo-realistic mountain valley, as the entire landscape suddenly pivots sideways like a massive door on hinges. Rivers and waterways defy gravity, cascading over the edge of the tilted terrain into empty space, creating a surreal yet hyper-realistic scene against the natural backdrop of rocks and vegetation."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Terrain Environment",
+                "prompt_id": 296,
+                "prompt_text": "A massive mountain bizarrely shifts its position in space while viewed through a stationary camera, defying natural physics as it smoothly relocates without triggering any earthquakes, landslides, or environmental disruption. The surrounding landscape, with its clear skies and natural terrain, remains completely undisturbed by this impossible phenomenon."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Terrain Environment",
+                "prompt_id": 298,
+                "prompt_text": "A mesmerizing natural phenomenon shows ocean tides stretching impossibly upward to touch the clouds, defying gravity. The massive wall of seawater rises vertically against the horizon. The surreal scene unfolds against a moody sky, where the boundary between sea and clouds becomes indistinguishable."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Terrain Environment",
+                "prompt_id": 300,
+                "prompt_text": "A surreal yet photo-realistic cityscape mysteriously floats above the ocean's surface. Multiple cascading waterfalls stream downward from the city's edges, creating ethereal connections between the suspended urban landscape and the vast sea below. The modern buildings and infrastructure remain perfectly intact despite their impossible position in mid-air."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Terrain Environment",
+                "prompt_id": 301,
+                "prompt_text": "A massive chunk of earth suddenly breaks free and levitates mysteriously into the sky, defying gravity. The photo-realistic scene captures the surreal moment as the floating island, covered with living trees and wandering animals, drifts through the air like a weightless cloud. The detached landscape maintains its complete ecosystem while suspended above the ground below."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Terrain Environment",
+                "prompt_id": 304,
+                "prompt_text": "A serene lake suddenly erupts into massive waves despite the absence of wind or natural causes. The crystal-clear water surface transitions from glass-like stillness to violent, towering swells that defy physics. The surrounding landscape remains perfectly still, making the unexplained water disturbance even more mysterious in this photo-realistic scene."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Terrain Environment",
+                "prompt_id": 305,
+                "prompt_text": "A massive volcano violently erupts in a photo-realistic scene, defying nature as it explosively releases ice and snow instead of molten lava. The frozen material cascades down the mountainous slopes, rapidly accumulating and crystallizing to form a sprawling glacier across the barren volcanic landscape. The extraordinary phenomenon transforms the typically scorching volcanic environment into a frost-covered terrain."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Terrain Environment",
+                "prompt_id": 306,
+                "prompt_text": "A devastating flood suddenly engulfs a small island, creating a surreal photo-realistic spectacle as torrential waters cascade over its terrain. Strangely, the surrounding ocean remains eerily calm and undisturbed, creating a stark contrast between the island's chaos and the serene sea waters. The realistic scene defies natural expectations of how water systems typically interact."
+            },
+            {
+                "prompt_taxonomy_label": "Geographical Laws - Terrain Environment",
+                "prompt_id": 308,
+                "prompt_text": "A volcanic eruption unexpectedly releases brilliant streams of colorful light into the dark sky, defying expectations of traditional lava flows. In this photo-realistic footage, vibrant beams in blues, purples, and oranges burst from the mountain's crater, creating an otherworldly spectacle against the stark volcanic landscape. The phenomenon strikingly resembles an aurora but emanates directly from the volcanic vent."
+            }
+        ]
+    }
+}
