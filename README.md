@@ -3,7 +3,7 @@
 <h1>Impossible Videos</h1>
 
 [Zechen Bai](https://www.baizechen.site/) <sup>\*</sup>&nbsp;
-[Hai Ci](https://hetong007.github.io/) <sup>\*</sup>&nbsp;
+[Hai Ci](https://haici.cc/) <sup>\*</sup>&nbsp;
 [Mike Zheng Shou](https://sites.google.com/view/showlab) <sup></sup>&nbsp;
 
 
@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="assets/logo.jpg" alt="TAX" style="display: block; margin: 0 auto;" width="480px" />
+  <img src="assets/logo.jpg" alt="TAX" style="display: block; margin: 0 auto;" width="640px" />
 </p>
 
 </div>
@@ -25,15 +25,11 @@
 
 ## 🤔 What are impossible videos?
 
-Impossible videos refers to videos displaying **counterfactual and anti-reality** scenes that are **impossible** in real world.
+Impossible videos refer to videos displaying **counterfactual and anti-reality** scenes that are **impossible** in real world.
 We show some video examples below.
 Please visit our [website](https://showlab.github.io/Impossible-Videos/) to find more examples.
 
-<video width="640" height="360" controls>
-  <source src="assets/demo_vid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<video src="https://github.com/user-attachments/assets/a06af093-0e6c-4da9-8a99-1eea73d099b8" width="720"></video>
 
 ## 💡 Why we interested in impossible videos?
 Impossible videos can be a touch stone for advanced video models.
@@ -47,7 +43,7 @@ This project aims to advance video research by answering the follow important qu
 ## 🔥 IPV-Bench
 we introduce ***IPV-Bench***, a novel benchmark designed to evaluate and foster progress in video understanding and generation.
 
-<p align="center"> <img src="assets/main_fig.png" width="640px"></p>
+<p align="center"> <img src="assets/main_fig.png" width="720px"></p>
 
 1. **§IPV Taxonomy**: IPV-Bench is underpinned by a comprehensive taxonomy, encompassing 4 domains, 14 categories. It features diverse scenes that defy physical, biological, geographical, or social laws.
 2. **§IPV-Txt Prompt Suite**: A prompt suite is constructed based on the taxonomy to evaluate video generation models, challenging their prompt following and creativity capabilities.
@@ -56,10 +52,10 @@ we introduce ***IPV-Bench***, a novel benchmark designed to evaluate and foster 
 ## 🏆 Leaderboard
 
 ### Text-to-video Generation
-<p align="center"> <img src="assets/ipv_eval_vid_gen.png" width="640px"></p>
+<p align="center"> <img src="assets/ipv_eval_vid_gen.png" width="720px"></p>
 
 ### Video-LLM-based Video Understanding
-<p align="center"> <img src="assets/ipv_eval_vid_understand.png" width="640px"></p>
+<p align="center"> <img src="assets/ipv_eval_vid_understand.png" width="720px"></p>
 
 ## 🚀 Get Started
 
