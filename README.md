@@ -21,7 +21,7 @@
 
 ### News
 * **[2025-03-19]** We release the paper on [arXiv](https://arxiv.org/abs/2503.14378)!
-* **[2025-03-18]** We release the data and example evaluation code!
+* **[2025-03-18]** We release the data and example evaluation code on [Huggingface](https://huggingface.co/datasets/showlab/ImpossibleVideos)!
 
 ## 🤔 What are impossible videos?
 
@@ -59,7 +59,7 @@ we introduce ***IPV-Bench***, a novel benchmark designed to evaluate and foster 
 
 ## 🚀 Get Started
 
-First, go to [Huggingface](https://huggingface.co/ShowLab) and download our data and code, including videos, task files, and example evaluation code.
+First, go to [Huggingface](https://huggingface.co/datasets/showlab/ImpossibleVideos) and download our data and code, including videos, task files, and example evaluation code.
 The task files and examples files can also be found in this GitHub repo.
 
 ### Evaluate Impossible Video Generation
