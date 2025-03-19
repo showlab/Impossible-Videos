@@ -8,7 +8,7 @@
 
 [Show Lab, National University of Singapore](https://sites.google.com/view/showlab/home?authuser=0) &nbsp;
  
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-xxxx.xxxx-b31b1b.svg)](https://huggingface.co/ShowLab)
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2503.14378-b31b1b.svg)](https://arxiv.org/abs/2503.14378)
 [![Webpage](https://img.shields.io/badge/Webpage-ImpossibleVideos-<COLOR>.svg)](https://showlab.github.io/Impossible-Videos/)
 [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ImpossibleVideos-blue)](https://huggingface.co/datasets/showlab/ImpossibleVideos)
 
@@ -20,6 +20,7 @@
 
 
 ### News
+* **[2025-03-19]** We release the paper on [arXiv](https://arxiv.org/abs/2503.14378)!
 * **[2025-03-18]** We release the data and example evaluation code!
 
 ## 🤔 What are impossible videos?
@@ -92,9 +93,9 @@ If you find our work helpful, please kindly star this repo and consider citing o
       title={Impossible Videos}, 
       author={Zechen Bai and Hai Ci and Mike Zheng Shou},
       year={2025},
-      eprint={xxxx.xxxxx},
+      eprint={2503.14378},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/xxxx.xxxxx}, 
+      url={https://arxiv.org/abs/2503.14378}, 
 }
 ```
