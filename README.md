@@ -41,7 +41,7 @@ This project aims to advance video research by answering the follow important qu
 - Are today's video understanding models good enough for **understanding** impossible videos?
 
 ## 🔥 IPV-Bench
-we introduce ***IPV-Bench***, a novel benchmark designed to evaluate and foster progress in video understanding and generation.
+We introduce ***IPV-Bench***, a novel benchmark designed to evaluate and foster progress in video understanding and generation.
 
 <p align="center"> <img src="assets/main_fig.png" width="820px"></p>
 
