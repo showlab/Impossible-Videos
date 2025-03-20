@@ -25,17 +25,17 @@
 
 ## 🤔 What are impossible videos?
 
-Impossible videos refer to videos displaying **counterfactual and anti-reality** scenes that are **impossible** in real world.
+Impossible videos refer to videos displaying **counterfactual and anti-reality** scenes that are **impossible** in the real world.
 We show some video examples below.
 Please visit our [website](https://showlab.github.io/Impossible-Videos/) to find more examples.
 
 <video src="https://github.com/user-attachments/assets/a06af093-0e6c-4da9-8a99-1eea73d099b8" width="720"></video>
 
-## 💡 Why we interested in impossible videos?
+## 💡 Why are we interested in impossible videos?
 Impossible videos can be a touch stone for advanced video models.
 As an ***out-of-real-world-distribution*** data, it requires the model to not simply ***memorize*** real-world data and ***retrieve*** similar information based on the input, but to genuinely ***learn*** from real-world data and ***reason*** upon the input.
 
-This project aims to advance video research by answering the follow important questions:
+This project aims to advance video research by answering the following important questions:
 
 - Can today's video generation models effectively follow prompts to **generate** impossible video content?
 - Are today's video understanding models good enough for **understanding** impossible videos?
@@ -60,7 +60,7 @@ We introduce ***IPV-Bench***, a novel benchmark designed to evaluate and foster 
 ## 🚀 Get Started
 
 First, go to [Huggingface](https://huggingface.co/datasets/showlab/ImpossibleVideos) and download our data and code, including videos, task files, and example evaluation code.
-The task files and examples files can also be found in this GitHub repo.
+The task files and example files can also be found in this GitHub repo.
 
 ### Evaluate Impossible Video Generation
 
@@ -70,7 +70,7 @@ The task files and examples files can also be found in this GitHub repo.
 4. Compute `IPV Score` by stating the percentage of videos that are *both of high quality and good prompt following.*
 
 🛠️ **In this study, we employ human annotation to provide reliable insights for the models.
-We are still polishing on an automatic evaluation framework, which will be open-sourced in the future.**
+We are still polishing an automatic evaluation framework, which will be open-sourced in the future.**
 
 ### Evaluate Impossible Video Understanding
 1. The benchmark involves three tasks: Judgement, Multi-choice QA, and Open-ended QA.
