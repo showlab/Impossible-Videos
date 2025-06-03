@@ -8,6 +8,8 @@
 
 [Show Lab, National University of Singapore](https://sites.google.com/view/showlab/home?authuser=0) &nbsp;
  
+ **ICML 2025**
+
 [![arXiv](https://img.shields.io/badge/arXiv%20paper-2503.14378-b31b1b.svg)](https://arxiv.org/abs/2503.14378)
 [![Webpage](https://img.shields.io/badge/Webpage-ImpossibleVideos-<COLOR>.svg)](https://showlab.github.io/Impossible-Videos/)
 [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ImpossibleVideos-blue)](https://huggingface.co/datasets/showlab/ImpossibleVideos)
@@ -20,6 +22,7 @@
 
 
 ### News
+* **[2025-05-01]** Impossible Videos is accepted by ICML 2025!
 * **[2025-03-19]** We release the paper on [arXiv](https://arxiv.org/abs/2503.14378)!
 * **[2025-03-18]** We release the data and example evaluation code on [Huggingface](https://huggingface.co/datasets/showlab/ImpossibleVideos)!
 
