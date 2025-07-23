@@ -80,13 +80,28 @@ We are still polishing an automatic evaluation framework, which will be open-sou
 2. Navigate to [example_eval/eval_judgement.py](example_eval/eval_judgement.py), [example_eval/eval_mcqa.py](example_eval/eval_mcqa.py), and [example_eval/eval_openqa.py](example_eval/eval_openqa.py) for each task.
 3. The example code implements the full evaluation pipeline. To evaluate your model, you simply modify the `inference_one()` function to produce the output.
 
-### Join Discussion
+## Reproduce
+
+We specify the specific model versions in our evaluation.
+
+#### Video Understanding
+- VideoLLaVA: `LanguageBind/Video-LLaVA-7B-hf`
+- Oryx: `Oryx-1.5-7B`
+- InternVL-2.5: `OpenGVLab/InternVL2_5-8B-MPO`
+- NVILA: `Efficient-Large-Model/NVILA-8B`
+- LongVU: `Vision-CAIR/LongVU_Qwen2_7B`
+- Qwen2-VL: `Qwen/Qwen2-VL-7B-Instruct`
+- LLaVA-Next: `lmms-lab/LLaVA-Video-7B-Qwen2`
+- GPT: `gpt-4o`
+- Gemini: `gemini-1.5-flash`
+
+<!-- ### Join Discussion
 Welcome to discuss with us and continuously improve the quality of impossible videos.
 Reach us with the WeChat QR code below!
 
 <p align="center">
 <img src="assets/wechat_qr.jpg" width="256">
-</p>
+</p> -->
 
 ## 🎓 BibTeX
 If you find our work helpful, please kindly star this repo and consider citing our paper.
